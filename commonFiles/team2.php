@@ -2,11 +2,12 @@
       Team
     ========================= -->
 <section class="team-layout2 pb-80">
+<div class="bg-img"><img src="assets/images/backgrounds/1.jpg" alt="background"></div>
     <div class="container">
         <div class="row">
-            <div class="col-sm-12 col-md-12 col-lg-6 offset-lg-3">
+            <div class="col-sm-12 col-md-12 col-lg-12">
                 <div class="heading text-center mb-40">
-                    <h3 class="heading__title">Group of Doctors.</h3>
+                    <h3 class="heading__title">24/7 Doctors assistance for minor and mild COVID symptoms.</h3>
                 </div><!-- /.heading -->
             </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->

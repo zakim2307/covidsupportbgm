@@ -84,8 +84,8 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-sm-12 col-md-12 col-lg-12">
-                        <span class="fz-14">&copy; 2020 DataSoft, All Rights Reserved. With Love by</span>
-                        <a class="fz-14 color-primary" href="#">Mantiqh Tech</a>
+                        <span class="fz-14">&copy; Design and Developed By</span>
+                        <a class="fz-14 color-primary" href="mantiqh.com">Mantiqh Technologies</a>
                     </div><!-- /.col-lg-6 -->
                     <!-- <div class="col-sm-12 col-md-6 col-lg-6">
                         <nav>
@@ -104,6 +104,7 @@
     </div><!-- /.wrapper -->
 
     <script src="assets/js/jquery-3.5.1.min.js"></script>
+    <script defer src="https://friconix.com/cdn/friconix.js"> </script> 
     <script src="assets/js/plugins.js"></script>
     <script src="assets/js/main.js"></script>
     </body>

@@ -85,12 +85,8 @@
                             </p>
                         </div><!-- /.blog-desc -->
                     </div>
-                </div><!-- /.post-item -->
-                <div class="d-flex flex-wrap justify-content-between border-top border-bottom pt-30 pb-30 mb-40">
 
-
-                </div>
-                <div class="widget-nav d-flex justify-content-between mb-40">
+                    <div class="widget-nav d-flex justify-content-between mb-40">
                     <a href="#" class="widget-nav__prev d-flex flex-wrap">
                         <div class="widget-nav__img">
                             <img src="assets/images/blog/grid/2.jpg" alt="blog thumb">
@@ -110,17 +106,19 @@
                         </div>
                     </a><!-- /.widget-next  -->
                 </div>
+                </div><!-- /.post-item -->
+                </div>
                 <div class="col-sm-12 col-md-12 col-lg-4">
                     <aside class="sidebar">
-                        <div class="widget widget-search">
+                        <!-- <div class="widget widget-search">
                             <h5 class="widget__title">Search</h5>
-                            <div class="widget__content">
-                                <form class="widget__form-search">
+                            <div class="widget__content"> -->
+                                <!-- <form class="widget__form-search">
                                     <input type="text" class="form-control" placeholder="Search...">
                                     <button class="btn" type="submit"><i class="icon-search"></i></button>
-                                </form>
-                            </div><!-- /.widget-content -->
-                        </div><!-- /.widget-search -->
+                                </form> -->
+                            <!-- </div>/.widget-content -->
+                        <!-- </div>/.widget-search -->
                         <div class="widget widget-posts">
                             <h5 class="widget__title">Recent Posts</h5>
                             <div class="widget__content">
@@ -176,18 +174,18 @@
                                 </ul>
                             </div><!-- /.widget-content -->
                         </div><!-- /.widget-categories -->
-                        <div class="widget widget-tags">
+                        <!-- <div class="widget widget-tags">
                             <h5 class="widget__title">Tags</h5>
-                            <div class="widget-content">
-                                <ul class="list-unstyled mb-0">
+                            <div class="widget-content"> -->
+                                <!-- <ul class="list-unstyled mb-0">
                                     <li><a href="#">Insights</a></li>
                                     <li><a href="#">Industry</a></li>
                                     <li><a href="#">Modern</a></li>
                                     <li><a href="#">Corporate</a></li>
                                     <li><a href="#">Business</a></li>
-                                </ul>
-                            </div><!-- /.widget-content -->
-                        </div><!-- /.widget-tags -->
+                                </ul> -->
+                            <!-- </div>/.widget-content -->
+                        <!-- </div>/.widget-tags -->
                     </aside><!-- /.sidebar -->
                 </div><!-- /.col-lg-4 -->
             </div><!-- /.row -->

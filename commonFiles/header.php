@@ -33,8 +33,7 @@
                             <div class="d-flex align-items-center justify-content-between">
                                 <ul class="contact__list d-flex flex-wrap align-items-center list-unstyled mb-0">
                                     <li>
-                                        <button class="miniPopup-emergency-trigger" type="button">24/7
-                                            Emergency</button>
+                                        <button class="miniPopup-emergency-trigger" type="button">18001022716</button>
                                         <div id="miniPopup-emergency" class="miniPopup miniPopup-emergency text-center">
                                             <div class="emergency__icon">
                                                 <i class="icon-call3"></i>
@@ -51,16 +50,12 @@
                                         </div><!-- /.miniPopup-emergency -->
                                     </li>
                                     <li>
-                                        <i class="icon-phone"></i><a href="tel:+18001022716">Toll Free:
-                                            18001022716</a>
-                                    </li>
-                                    <li>
-                                        <i class="icon-phone"></i><a href="#">ERT <span>– Emergency Response Team</span>
-                                            / CAT
-                                            <span>– Covid Action Team</span></a>
+                                    <a href="#">
+                                        <i class="icon-phone"></i><span>&nbsp;&nbsp;&nbsp;ERT – Emergency Response Team</span></a>
                                     </li>
                                 </ul><!-- /.contact__list -->
-                                <div class="d-flex">
+                                <div class="d-flex d-flex-hidden-small">
+                                <!-- <div class="d-flex"> -->
                                     <ul class="social-icons list-unstyled mb-0 mr-30">
                                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fab fa-instagram"></i></a></li>
@@ -79,7 +74,7 @@
             <nav class="navbar navbar-expand-lg sticky-navbar">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="index.php">
-                        <img src="assets/images/logo/logo-light.png" class="logo-light" alt="logo">
+                        <img src="assets/images/logo/logo-light1.png" class="logo-light" alt="logo">
                         <img src="assets/images/logo/logo-dark.png" class="logo-dark" alt="logo">
                     </a>
                     <button class="navbar-toggler" type="button">
@@ -94,9 +89,9 @@
                                 <a href="about.php" class="nav__item-link">About Us</a>
                             </li><!-- /.nav-item -->
 
-                            <li class="nav__item">
-                                <a href="doctor.php" class="nav__item-link">Doctors</a>
-                            </li><!-- /.nav-item -->
+                            <!-- <li class="nav__item">
+                                <a href="doctor.php" class="nav__item-link">Doctors</a> -->
+                            <!-- </li>/.nav-item -->
                             <li class="nav__item">
                                 <a href="NGO.php" class="nav__item-link">NGO's</a>
                             </li><!-- /.nav-item -->
@@ -169,8 +164,8 @@
                             </li><!-- /.nav-item -->
                         </ul> <!-- /.miniPopup-departments -->
                         <a href="contact.php" class="btn btn__primary btn__rounded ml-30">
-                            <i class="icon-calendar"></i>
-                            <span>Contact Us</span>
+                            <!-- <i class="icon-calendar"></i> -->
+                            <span>Contact ERT</span>
                         </a>
                     </div>
                 </div>
