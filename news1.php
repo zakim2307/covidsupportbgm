@@ -1,8 +1,4 @@
-<?php 
-   $path = $_SERVER['DOCUMENT_ROOT'];
-   $path .= "/covidmed/commonFiles/header.php";
-   include_once($path);
-?>
+<?php include('./commonFiles/header.php') ?>
 
 <!-- ========================
        page title 
@@ -197,8 +193,5 @@
             </div><!-- /.row -->
         </div><!-- /.container -->
 </section><!-- /.blog Single -->
-<?php 
-   $path = $_SERVER['DOCUMENT_ROOT'];
-   $path .= "/covidmed/commonFiles/footer.php";
-   include_once($path);
-?>
+
+<?php include('./commonFiles/footer.php') ?>
