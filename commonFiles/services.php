@@ -7,7 +7,7 @@
                     <div class="">
                         <div class="row">
                             <!-- process item #1 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
                                 <div class="process-item">
                                     <span class="process__number">01</span>
                                     <div class="process__icon">
@@ -23,7 +23,7 @@
                             </div>
                             <!-- /.process-item -->
                             <!-- process-item #2 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
                                 <div class="process-item">
                                     <span class="process__number">02</span>
                                     <div class="process__icon">
@@ -40,7 +40,7 @@
                             </div>
                             <!-- /.process-item -->
                             <!-- process-item #3 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
                                 <div class="process-item">
                                     <span class="process__number">03</span>
                                     <div class="process__icon">
@@ -56,7 +56,7 @@
                             </div>
                             <!-- /.process-item -->
                             <!-- process-item #4 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
                                 <div class="process-item">
                                     <span class="process__number">04</span>
                                     <div class="process__icon">
@@ -73,7 +73,7 @@
                             </div>
                             <!-- /.process-item -->
                             <!-- process item #1 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
                                 <div class="process-item">
                                     <span class="process__number">05</span>
                                     <div class="process__icon">
@@ -91,7 +91,7 @@
                             </div>
                             <!-- /.process-item -->
                             <!-- process-item #2 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
                                 <div class="process-item">
                                     <span class="process__number">06</span>
                                     <div class="process__icon">
@@ -109,7 +109,7 @@
                             </div>
                             <!-- /.process-item -->
                             <!-- process-item #3 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
                                 <div class="process-item">
                                     <span class="process__number">07</span>
                                     <div class="process__icon">
@@ -125,7 +125,7 @@
                             </div>
                             <!-- /.process-item -->
                             <!-- process-item #4 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
                                 <div class="process-item">
                                     <span class="process__number">08</span>
                                     <div class="process__icon">
@@ -143,7 +143,7 @@
                             </div>
                             <!-- /.process-item -->
                             <!-- process item #1 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
                                 <div class="process-item">
                                     <span class="process__number">09</span>
                                     <div class="process__icon">
@@ -160,7 +160,7 @@
                             </div>
                             <!-- /.process-item -->
                             <!-- process-item #2 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
                                 <div class="process-item">
                                     <span class="process__number">10</span>
                                     <div class="process__icon">
@@ -177,7 +177,7 @@
                             </div>
                             <!-- /.process-item -->
                             <!-- process-item #3 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
                                 <div class="process-item">
                                     <span class="process__number">11</span>
                                     <div class="process__icon">
@@ -194,7 +194,7 @@
                             </div>
                             <!-- /.process-item -->
                             <!-- process-item #4 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-3">
+                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
                                 <div class="process-item">
                                     <span class="process__number">12</span>
                                     <div class="process__icon">
