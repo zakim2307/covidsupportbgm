@@ -9,6 +9,7 @@
         <div class="row">
             <div class="col-12">
                 <h1 class="pagetitle__heading">Covid Donations and Payment Details</h1>
+                <?php include('./commonFiles/covid.php') ?>
                 <nav>
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>

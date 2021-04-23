@@ -4,22 +4,21 @@
        page title 
     =========================== -->
 <section class="page-title page-title-layout5">
-    <div class="bg-img"><img src="assets/images/backgrounds/6.jpg" alt="background"></div>
+    <div class="bg-img"><img src="assets/images/sliders/mainBanner.png" alt="background"></div>
     <div class="container">
         <div class="row">
             <div class="col-12">
                 <h1 class="pagetitle__heading">Registerd NGOs and Individuals socialists in Belgaum</h1>
-                <nav>
+                <?php include('./commonFiles/covid.php') ?>
+                <!-- <nav>
                     <ol class="breadcrumb mb-0">
                         <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     </ol>
-                </nav>
+                </nav> -->
             </div><!-- /.col-12 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section><!-- /.page-title -->
-
-<?php include('./commonFiles/contact-info.php') ?>
 
 <!-- ========================
        Doctors Timetable

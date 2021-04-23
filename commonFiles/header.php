@@ -139,7 +139,7 @@
                                 <a href="oxygen.php" class="nav__item-link">Oxygen Cylinders</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="ambulance.hp" class="nav__item-link">Ambulance Services</a>
+                                <a href="ambulance.php" class="nav__item-link">Ambulance Services</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
                                 <a href="burials.php" class="nav__item-link">Burials and Cremations</a>
