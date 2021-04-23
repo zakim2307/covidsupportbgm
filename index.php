@@ -60,50 +60,7 @@
                     </div><!-- /.row -->
                 </div><!-- /.container -->
             </div><!-- /.slide-item -->
-            <div class="slide-item align-v-h">
-                <div class="bg-img"><img src="assets/images/sliders/2.jpg" alt="slide img"></div>
-                <div class="container">
-                    <div class="row align-items-center">
-                        <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
-                            <div class="slide__content">
-                                <h2 class="slide__title">All Aspects Of Medical Practice</h2>
-                                <p class="slide__desc">The health and well-being of our fellow indians will
-                                    always be our priority, so we follow the best COVID-19 prevention practices.</p>
-                                <ul class="features-list list-unstyled mb-0 d-flex flex-wrap">
-                                    <!-- feature item #1 -->
-                                    <li class="feature-item">
-                                        <div class="feature__icon">
-                                            <i class="icon-heart"></i>
-                                        </div>
-                                        <h2 class="feature__title">Examination</h2>
-                                    </li><!-- /.feature-item-->
-                                    <!-- feature item #2 -->
-                                    <li class="feature-item">
-                                        <div class="feature__icon">
-                                            <i class="icon-medicine"></i>
-                                        </div>
-                                        <h2 class="feature__title">Prescription </h2>
-                                    </li><!-- /.feature-item-->
-                                    <!-- feature item #3 -->
-                                    <li class="feature-item">
-                                        <div class="feature__icon">
-                                            <i class="icon-heart2"></i>
-                                        </div>
-                                        <h2 class="feature__title">Cardiogram</h2>
-                                    </li><!-- /.feature-item-->
-                                    <!-- feature item #4 -->
-                                    <li class="feature-item">
-                                        <div class="feature__icon">
-                                            <i class="icon-blood-test"></i>
-                                        </div>
-                                        <h2 class="feature__title">Blood Pressure</h2>
-                                    </li><!-- /.feature-item-->
-                                </ul><!-- /.features-list -->
-                            </div><!-- /.slide-content -->
-                        </div><!-- /.col-xl-7 -->
-                    </div><!-- /.row -->
-                </div><!-- /.container -->
-            </div><!-- /.slide-item -->
+
         </div><!-- /.carousel -->
     </section><!-- /.slider -->
 
@@ -157,8 +114,10 @@
                                 <div class="process__icon">
                                     <i class="icon-health-report"></i>
                                 </div><!-- /.process__icon -->
-                                <h4 class="process__title">Fill The Form TO Donate For Poor</h4>
+                                <h4 class="process__title">Donate For Poor</h4>
                                 <p class="process__desc">With this we can provide Oxygen, ventilators, beds and many
+                                    services beds
+                                    and many
                                     services for NGOs and hospitals</p>
                                 <a href="donation.php" class="btn btn__secondary btn__link">
                                     <span>Donation For Poor</span>
