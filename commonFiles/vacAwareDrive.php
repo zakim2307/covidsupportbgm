@@ -108,8 +108,18 @@
                         <img src="assets/images/gallery/6.jpg" alt="gallery img">
                     </a>
                 </div><!-- /.gallery-images-wrapper -->
+                
             </div><!-- /.col-xl-5 -->
+            <div class="btn-center-justify mt-10">
+                    <a href="vaccineAwareness.php" class="btn btn__primary btn__rounded ml-30" style="align-items: center;">
+
+                        <span>View All</span>
+                    </a>
+                  </div>
         </div><!-- /.row -->
-        </section>
+        
+         
+                
+              </section>
     </div>
     </section><!-- /.testimonials layout 1 -->

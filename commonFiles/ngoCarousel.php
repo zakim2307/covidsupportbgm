@@ -89,7 +89,7 @@
         </div><!-- /.row -->
         <div class="row">
           <div class="col-12 d-flex justify-content-end mt--20">
-            <a href="doctor.php" class="btn btn__primary btn__rounded ml-30" style="align-items: center;">
+            <a href="volunteerRegister.php" class="btn btn__white btn__rounded ml-30" style="align-items: center;">
               <span>Register as Volunteer</span>
             </a>
           </div><!-- /.col-12 -->

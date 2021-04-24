@@ -35,180 +35,197 @@
     </div><!-- /.container -->
 </section><!-- /.page-title -->
 
-<section class="blog-grid">
+<section>
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 col-md-11 col-sm-10">
+            <h3>Donations Received for COVID-19 Poor Patients Fund</h3>
+            <div class="col-12 mb-50">
                 <div class="table-responsive">
-                    <table id="tablepress-1" class="doctors-timetable doctors-padding w-100">
-                        <tbody class="row-hover">
-                            <tr class="row-1 odd">
-                                <td colspan="6" class="column-1">
-                                    <h3>Donations Received for COVID-19 Poor Patients Fund</h3>
+                    <table class="doctors-timetable w-100">
+                        <thead>
+                            <tr>
+                                <th>S.no</th>
+                                <th>Date</th>
+                                <th>Name</th>
+                                <th>city</th>
+                                <th>Amount</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    1
+                                </td>
+                                <td class="event">
+                                    <a class="event__header">23/04/2021</a>
+                                    
+                                </td>
+                                <td class="event">
+                                    <a class="event__header">MR Narayan Krishna</a>
+                                </td>
+                                <td class="event">
+                                <a class="event__header">Belgaum</a>
+                                </td>
+                                
+                                <td class="event">
+                                    <a class="event__header">5000</a>
                                 </td>
                             </tr>
-                            <tr class="row-2 even">
-                                <td class="column-1"><strong>Sl. No</strong></td>
-                                <td class="column-2"><strong>Date</strong></td>
-                                <td class="column-3"><strong>Donor Name</strong></td>
-                                <td class="column-4"><strong>City</strong></td>
-                                <td class="column-5"><strong>Amount Donated</strong></td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-3 odd">
-                                <td class="column-1">1</td>
-                                <td class="column-2">30.07.2020</td>
-                                <td class="column-3">Mohan</td>
-                                <td class="column-4">Bangalore</td>
-                                <td class="column-5">Rs.10000/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-4 even">
-                                <td class="column-1">2</td>
-                                <td class="column-2">02.08.2020</td>
-                                <td class="column-3">Binu Mathews</td>
-                                <td class="column-4">Bangalore</td>
-                                <td class="column-5">Rs.2500/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-5 odd">
-                                <td class="column-1">3</td>
-                                <td class="column-2">09.08.2020</td>
-                                <td class="column-3">Mohammed Iqbal</td>
-                                <td class="column-4">Bangalore</td>
-                                <td class="column-5">Rs.25000/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-6 even">
-                                <td class="column-1">4</td>
-                                <td class="column-2">10.10.2020</td>
-                                <td class="column-3">Naveen Mahadevaiah</td>
-                                <td class="column-4">Bangalore</td>
-                                <td class="column-5">Rs.5000/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-7 odd">
-                                <td class="column-1">5</td>
-                                <td class="column-2">12.10.2020</td>
-                                <td class="column-3">Dipak Dhal</td>
-                                <td class="column-4">Bangalore</td>
-                                <td class="column-5">Rs.5000/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-8 even">
-                                <td class="column-1">6</td>
-                                <td class="column-2">26.10.2020</td>
-                                <td class="column-3">Reshma Sultana</td>
-                                <td class="column-4">Bangalore</td>
-                                <td class="column-5">Rs.20,000/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-9 odd">
-                                <td class="column-1"></td>
-                                <td class="column-2"></td>
-                                <td class="column-3"></td>
-                                <td class="column-4">Total Received</td>
-                                <td class="column-5">Rs.67500/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                        </tbody>
-                    </table>
-                    <!-- payments -->
-                    <table id="tablepress-1" class="doctors-timetable doctors-padding w-100">
-                        <tbody class="row-hover">
-                            <tr class="row-11 odd">
-                                <td colspan="6" class="column-1">
-                                    <h3>Payments made using COVID-19 Poor Patients Fund</h3>
-                                </td>
-                            </tr>
-                            <tr class="row-12 even">
-                                <td class="column-1"><strong>Sl. No</strong></td>
-                                <td class="column-2"><strong>Date</strong></td>
-                                <td class="column-3"><strong>Patient Name</strong></td>
-                                <td class="column-4"><strong>Payment Towards</strong></td>
-                                <td class="column-5"><strong>Paid To</strong></td>
-                                <td class="column-6"><strong>Amount</strong></td>
-                            </tr>
-                            <tr class="row-13 odd">
-                                <td class="column-1">1</td>
-                                <td class="column-2">22.08.2020</td>
-                                <td class="column-3">Roselin</td>
-                                <td class="column-4">COVID19 Hospital Bill</td>
-                                <td class="column-5">Vittals Medicare Pvt Limited, Bangalore</td>
-                                <td class="column-6">Rs.15000/-</td>
-                            </tr>
-                            <tr class="row-14 even">
-                                <td class="column-1">2</td>
-                                <td class="column-2">08.09.2020</td>
-                                <td class="column-3">Syed Tanveer Ahmed</td>
-                                <td class="column-4">Injection Tocilizumab</td>
-                                <td class="column-5">Shifa Hospital, Bangalore</td>
-                                <td class="column-6">Rs.10000/-</td>
-                            </tr>
-                            <tr class="row-15 odd">
-                                <td class="column-1">3</td>
-                                <td class="column-2">13.10.2020</td>
-                                <td class="column-3">Sundaramma G</td>
-                                <td class="column-4">Injection Tocilizumab</td>
-                                <td class="column-5">HBS Pharma, Bangalore</td>
-                                <td class="column-6">Rs.10000/-</td>
-                            </tr>
-                            <tr class="row-16 even">
-                                <td class="column-1">4</td>
-                                <td class="column-2">26.10.2020</td>
-                                <td class="column-3">Shantamma</td>
-                                <td class="column-4">Injection Tocilizumab</td>
-                                <td class="column-5">Shifa Hospital, Bangalore</td>
-                                <td class="column-6">Rs.10000/-</td>
-                            </tr>
-                            <tr class="row-17 odd">
-                                <td class="column-1">5</td>
-                                <td class="column-2">29.10.2020</td>
-                                <td class="column-3">Imtiaz Ahmed</td>
-                                <td class="column-4">Injection Tocilizumab</td>
-                                <td class="column-5">Shifa Hospital, Bangalore</td>
-                                <td class="column-6">Rs.10000/-</td>
-                            </tr>
-                            <tr class="row-18 even">
-                                <td class="column-1">6</td>
-                                <td class="column-2">04.11.2020</td>
-                                <td class="column-3">Munawer</td>
-                                <td class="column-4">COVID19 Hospital Bill</td>
-                                <td class="column-5">HBS Hospital, Bangalore</td>
-                                <td class="column-6">Rs.10000/-</td>
-                            </tr>
-                            <tr class="row-19 odd">
-                                <td class="column-1">7</td>
-                                <td class="column-2">04.11.2020</td>
-                                <td class="column-3">Ayyappa</td>
-                                <td class="column-4">Injection Tocilizumab</td>
-                                <td class="column-5">Shifa Hospital, Bangalore</td>
-                                <td class="column-6">Rs.10000/-</td>
-                            </tr>
-                            <tr class="row-20 even">
-                                <td class="column-1"></td>
-                                <td class="column-2"></td>
-                                <td class="column-3"></td>
-                                <td class="column-4"></td>
-                                <td class="column-5">Total Amt Spent</td>
-                                <td class="column-6">Rs.75000/-</td>
-                            </tr>
-                            <tr class="row-21 odd">
-                                <td class="column-1"></td>
-                                <td class="column-2"></td>
-                                <td class="column-3"></td>
-                                <td class="column-4"></td>
-                                <td class="column-5">Excess Amt Spent</td>
-                                <td class="column-6">Rs.7500/-</td>
-                            </tr>
+                            <tr ><td class="event" colspan="4">Total</td ><td class="event" >5000</td></tr>
+                            
+
+
                         </tbody>
                     </table>
                 </div>
-            </div>
+            </div><!-- /.col-12 -->
+            <h3>Beneficieries of COVID-19 Poor & Needy Patients Fund</h3>
+
+            <div class="col-12">
+                <div class="table-responsive">
+                    <table class="doctors-timetable w-100">
+                        <thead>
+                            <tr>
+                                <th>Sl.no</th>
+                                <th>Date</th>
+                                <th>Patient Name</th>
+                                <th>Payment Towards</th>
+                                <th>Paid To</th>
+                                <th>Amount</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    1
+                                </td>
+                                <td class="event">
+                                    <a class="event__header">23/4/2021</a>
+                                </td>
+                                <td class="event">
+                                    <a class="event__header">MR Narayan Krishna</a>
+                                </td>
+                                <td class="event">
+                                    <a class="event__header">Oxygen</a>
+                                </td>
+                                <td class="event">
+                                    <a class="event__header">Al Iqra</a>
+
+                                </td>
+                                <td class="event">
+                                    <a class="event__header">10000</a>
+                                </td>
+                            </tr>
+                            <tr ><td class="event" colspan="5">Total</td ><td class="event" >5000</td></tr>
+                            <tr ><td class="event" colspan="5">Spent / Balance Amount</td ><td class="event" >5000</td></tr>
+
+
+
+                        </tbody>
+                    </table>
+                </div>
+            </div><!-- /.col-12 -->
         </div>
     </div>
 </section>
 
-<?php include('./commonFiles/plasmaDonate.php') ?>
+<section class="contact-layout3 bg-overlay bg-overlay-primary-gradient pb-60">
+        <div class="bg-img"><img src="assets/images/banners/1.jpg" alt="banner"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-12 col-md-12 col-lg-7">
+                    <div class="contact-panel mb-50">
+                        <form class="contact-panel__form" method="post" action="assets/php/contact.php"
+                            id="contactForm">
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <h4 class="contact-panel__title">Drop us a note to donate</h4>
+                                    <p class="contact-panel__desc mb-30">Please feel welcome to contact our
+                                        friendly
+                                        reception staff
+                                        with any enquiry pertaining to donations.
+                                    </p>
+                                </div>
+                                <div class="col-sm-6 col-md-6 col-lg-6">
+                                </div><!-- /.col-lg-6 -->
+                                <div class="col-sm-6 col-md-6 col-lg-6">
+                                </div><!-- /.col-lg-6 -->
+                                <div class="col-sm-12 col-md-6 col-lg-6">
+                                    <div class="form-group">
+                                        <i class="icon-news form-group-icon"></i>
+                                        <input type="text" class="form-control" placeholder="Name" id="query-name"
+                                            name="contact-name" required>
+                                    </div>
+                                </div><!-- /.col-lg-6 -->
+                                <div class="col-sm-12 col-md-6 col-lg-6">
+                                    <div class="form-group">
+                                        <i class="icon-phone form-group-icon"></i>
+                                        <input type="text" class="form-control" placeholder="Phone" id="query-Phone"
+                                            name="contact-phone" required>
+                                    </div>
+                                </div><!-- /.col-lg-4 -->
+                                <div class="col-sm-12 col-md-12 col-lg-12">
+                                <div class="form-group">
+                                        <i class="icon-email form-group-icon"></i>
+                                        <input type="email" class="form-control" placeholder="Email" id="query-email"
+                                            name="contact-email" required>
+                                    </div>
+                                </div><!-- /.col-lg-4 -->
+                                <div class="col-sm-12 col-md-12 col-lg-12">
+                                    <div class="form-group form-group-date">
+                                        <!-- <i class="fas form-group-icon"></i> -->
+                                        <input type="textarea" rows="3" class="form-control" placeholder="Message" id="query-message" name="contact-message"
+                                            required>
+                                    </div>
+                                </div><!-- /.col-lg-4 -->
+                                <div class="col-12">
+                                    <button type="submit"
+                                        class="btn btn__secondary btn__rounded btn__block btn__xhight mt-10">
+                                        <span>Request Callback</span> <i class="icon-arrow-right"></i>
+                                    </button>
+                                    <div class="contact-result"></div>
+                                </div><!-- /.col-lg-12 -->
+                            </div><!-- /.row -->
+                        </form>
+                    </div>
+                </div><!-- /.col-lg-7 -->
+                <div class="col-sm-12 col-md-12 col-lg-5">
+                    <div class="heading heading-light mb-30">
+                        <h3 class="heading__title mb-30">Helping Poor Patients !!!</h3>
+                        <p class="heading__desc">Our staff strives to make each interaction with patients and Donor
+                            clear,
+                            concise, and
+                            inviting. Support the important work of Medicsh Hospital by making a much-needed
+                            donation
+                            today.
+                        </p>
+                    </div>
+                    <div class="d-flex align-items-center">
+                        <a href="donation.php" class="btn btn__white btn__rounded mr-30">
+                            <i class="fas fa-heart"></i> <span>Help the Needy</span>
+                        </a>
+                        <a class="video__btn video__btn-white popup-video" href="aboutCovid.php">
+                            <div class="video__player">
+                                <i class="fa fa-play"></i>
+                            </div>
+                            <span class="video__btn-title color-white">Our Work</span>
+                        </a>
+                    </div>
+                    <!-- <div class="text__block">
+                        <p class="text__block-desc color-white font-weight-bold">We provide a comprehensive
+                            range of
+                            plans for
+                            families and individuals at every stage of life, with annual limits ranging from
+                            £1.5m to
+                            unlimited.</p>
+                        <div class="sinature color-white">
+                            <span class="font-weight-bold">Martin Qube</span><span>, Medcity Manager</span>
+                        </div>
+                    </div>/.text__block -->
+                    
+                </div><!-- /.col-lg-5 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section><!-- /.contact layout 3 -->
 
 <?php include('./commonFiles/footer.php') ?>

@@ -156,7 +156,7 @@
                         </p>
                     </div><!-- /.col-lg-7 -->
                     <div class="col-sm-12 col-md-3 col-lg-3">
-                        <a href="FAQ.php" class="btn btn__primary btn__secondary-style2 btn__rounded">
+                        <a href="aboutCovid.php" class="btn btn__primary btn__secondary-style2 btn__rounded">
                             <span>Know More About COVID-19</span>
                             <i class="icon-arrow-right"></i>
                         </a>

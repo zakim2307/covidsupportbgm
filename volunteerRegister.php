@@ -37,85 +37,47 @@
 
 <section class="blog-grid">
     <div class="container">
-        <div class="row">
-            <div class="col-lg-12 col-md-11 col-sm-10">
-            <?php include('./commonFiles/plasmaDonate.php') ?>
+    <div class="row">
+        <?php include('./commonFiles/plasmaDonate.php') ?>
+            <h3>List of Donors Registered on Covid Supoort Belgaum</h3>
+            <div class="col-12 mb-50">
                 <div class="table-responsive">
-                    <table id="tablepress-1" class="doctors-timetable doctors-padding w-100">
-                        <tbody class="row-hover">
-                            <tr class="row-1 odd">
-                                <td colspan="6" class="column-1">
-                                    <h3>List of volunteers in Belgaum</h3>
+                    <table class="doctors-timetable w-100">
+                        <thead>
+                            <tr>
+                                <th>S.no</th>
+                               
+                                <th>Name</th>
+                                <th>city</th>
+                                <th>Phone</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>
+                                    1
+                                </td>
+                               
+                                <td class="event">
+                                    <a class="event__header">MR Narayan Krishna</a>
+                                </td>
+                                <td class="event">
+                                <a class="event__header">Belgaum</a>
+                                </td>
+                                
+                                <td class="event">
+                                    <a class="event__header">9845003423</a>
                                 </td>
                             </tr>
-                            <tr class="row-2 even">
-                                <td class="column-1"><strong>Sl. No</strong></td>
-                                <td class="column-2"><strong>Date</strong></td>
-                                <td class="column-3"><strong>Name</strong></td>
-                                <td class="column-4"><strong>City</strong></td>
-                                <td class="column-5"><strong>Amount Donated</strong></td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-3 odd">
-                                <td class="column-1">1</td>
-                                <td class="column-2">30.07.2020</td>
-                                <td class="column-3">Mohan</td>
-                                <td class="column-4">Bangalore</td>
-                                <td class="column-5">Rs.10000/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-4 even">
-                                <td class="column-1">2</td>
-                                <td class="column-2">02.08.2020</td>
-                                <td class="column-3">Binu Mathews</td>
-                                <td class="column-4">Bangalore</td>
-                                <td class="column-5">Rs.2500/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-5 odd">
-                                <td class="column-1">3</td>
-                                <td class="column-2">09.08.2020</td>
-                                <td class="column-3">Mohammed Iqbal</td>
-                                <td class="column-4">Bangalore</td>
-                                <td class="column-5">Rs.25000/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-6 even">
-                                <td class="column-1">4</td>
-                                <td class="column-2">10.10.2020</td>
-                                <td class="column-3">Naveen Mahadevaiah</td>
-                                <td class="column-4">Bangalore</td>
-                                <td class="column-5">Rs.5000/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-7 odd">
-                                <td class="column-1">5</td>
-                                <td class="column-2">12.10.2020</td>
-                                <td class="column-3">Dipak Dhal</td>
-                                <td class="column-4">Bangalore</td>
-                                <td class="column-5">Rs.5000/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-8 even">
-                                <td class="column-1">6</td>
-                                <td class="column-2">26.10.2020</td>
-                                <td class="column-3">Reshma Sultana</td>
-                                <td class="column-4">Bangalore</td>
-                                <td class="column-5">Rs.20,000/-</td>
-                                <td class="column-6"></td>
-                            </tr>
-                            <tr class="row-9 odd">
-                                <td class="column-1"></td>
-                                <td class="column-2"></td>
-                                <td class="column-3"></td>
-                                <td class="column-4">Total Received</td>
-                                <td class="column-5">Rs.67500/-</td>
-                                <td class="column-6"></td>
-                            </tr>
+                            
+
+
                         </tbody>
                     </table>
                 </div>
-            </div>
+            </div><!-- /.col-12 -->
+            
+            
         </div>
     </div>
 </section>

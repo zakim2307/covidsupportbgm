@@ -26,7 +26,7 @@
 <div class="bg-img"><img src="assets/images/banners/1.jpg" alt="background"></div>    <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
-                <h1 class="pagetitle__heading">About Covid<br />Lets Some Facts About COVID-19:</h1>
+                <h1 class="pagetitle__heading">Lets see Some Facts About COVID-19:</h1>
                 <!-- <p class="pagetitle__desc">We are a group of highly trained doctors from UK (expatriate), NGO’s &
                     Civil Society members of
                     Belgaum with a mission to save Human lives & provide emergency services like Doctors assistant
