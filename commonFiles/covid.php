@@ -10,6 +10,7 @@
                                         <h2 class="feature__title">Confirmed</h2>
                                     </li><!-- /.feature-item-->
                                     <!-- feature item #2 -->
+
                                     <li class="feature-item">
                                         <div class="feature__icon">
                                             <a href="#">
@@ -21,6 +22,9 @@
                                         <h2 class="feature__title">Active</h2>
                                     </li><!-- /.feature-item-->
                                      <!-- feature item #4 -->
+                                     <span class="show-only-in-web"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
+                                    
+
                                      <li class="feature-item">
                                         <div class="feature__icon">
                                             <a href="#">
@@ -31,6 +35,7 @@
                                         <h2 class="feature__title">Cured</h2>
                                     </li><!-- /.feature-item-->
                                     <!-- feature item #3 -->
+                                    <span class="show-only-in-web"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
                                     <li class="feature-item">
                                         <div class="feature__icon">
                                             <a href="#">

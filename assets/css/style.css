@@ -998,6 +998,10 @@ textarea {
     display: block;
   }
 
+  .show-only-in-mob {
+    display: none;
+  }
+
   .inner-padding {
     padding: 20px !important;
   }
@@ -2990,7 +2994,7 @@ ul.heading__desc .list-items li {
 }
 
 /* .navbar-brand > img { */
-  /* max-width: 75%; */
+/* max-width: 75%; */
 /* } */
 
 .navbar .logo-light {

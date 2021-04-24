@@ -31,8 +31,10 @@
                     <div class="row align-items-right">
                         <div class="col-sm-4 col-md-6 col-lg-12">
                             <div class="slide__content">
-                                <h2 class="slide__title">Rise Against COVID</h2>
-                                <p  class="slide__title2">Lets fight the pandemic together</p>
+                                <h2 class="slide__title">Rise Against<br />COVID</h2>
+                                <p  class="slide__title2"><span class="show-only-in-mob">Lets fight the pandemic together</span>
+                                <span class="show-only-in-web">Lets fight the <br />pandemic together</span>
+                                </p>
                                 <ul class="features-list list-unstyled mb-0 d-flex flex-wrap">
                                     <!-- feature item #1 -->
                                     <li class="feature-item">
@@ -56,6 +58,7 @@
                                         <h2 class="feature__title">Active</h2>
                                     </li><!-- /.feature-item-->
                                      <!-- feature item #4 -->
+                                     <span class="show-only-in-web"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>
                                      <li class="feature-item">
                                         <div class="feature__icon">
                                             <a href="#">
@@ -66,6 +69,8 @@
                                         <h2 class="feature__title">Cured</h2>
                                     </li><!-- /.feature-item-->
                                     <!-- feature item #3 -->
+                                    <span class="show-only-in-web"><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+                                     
                                     <li class="feature-item">
                                         <div class="feature__icon">
                                             <a href="#">
