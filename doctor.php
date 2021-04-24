@@ -21,7 +21,7 @@
 
 
 <!-- ========================
-       page title 
+       page title for doctors
     =========================== -->
 <section class="page-title page-title-layout1 bg-overlay">
     <div class="bg-img"><img src="assets/images/sliders/11.jpg" alt="background"></div>
@@ -72,12 +72,12 @@
                         <img src="assets/images/team/doc.png" alt="member img">
                     </div><!-- /.member-img -->
                     <div class="member__info">
-                        <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr Nabeel Ghadi</a></h5>
-                        <p class="member__job">11 am to 2 pm /<br />6.30 pm to 9.30 pm</p>
-                        <p class="member__job">Cell no: 2135467988</p>
-                        <p class="member__job">Practicing At : KLE Belgaum</p>
+                            <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr Obaid</a></h5>
+                            <p class="member__job">10.00 am to 4.00 pm</p>
+                            <p class="member__job">Cell no: 2135467988</p>
+                            <p class="member__job">Practicing At : KLE Belgaum</p>
 
-                    </div>
+                        </div>
                     <!-- /.member-info -->
                 </div><!-- /.member -->
             </div><!-- /.col-lg-4 -->
@@ -89,12 +89,12 @@
                         <img src="assets/images/team/doc.png" alt="member img">
                     </div><!-- /.member-img -->
                     <div class="member__info">
-                        <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr Nabeel Ghadi</a></h5>
-                        <p class="member__job">11 am to 2 pm /<br />6.30 pm to 9.30 pm</p>
-                        <p class="member__job">Cell no: 2135467988</p>
-                        <p class="member__job">Practicing At : KLE Belgaum</p>
+                            <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr Salman Khan</a></h5>
+                            <p class="member__job">10 am to 3 pm /<br />7.00 pm to 9.30 pm</p>
+                            <p class="member__job">Cell no: 2135467988</p>
+                            <p class="member__job">Practicing At : KLE Belgaum</p>
 
-                    </div>
+                        </div>
                     <!-- /.member-info -->
                 </div><!-- /.member -->
             </div><!-- /.col-lg-4 -->
@@ -106,12 +106,12 @@
                         <img src="assets/images/team/doc.png" alt="member img">
                     </div><!-- /.member-img -->
                     <div class="member__info">
-                        <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr Nabeel Ghadi</a></h5>
-                        <p class="member__job">11 am to 2 pm /<br />6.30 pm to 9.30 pm</p>
-                        <p class="member__job">Cell no: 2135467988</p>
-                        <p class="member__job">Practicing At : KLE Belgaum</p>
+                            <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr Nikhat</a></h5>
+                            <p class="member__job">11.00 am to 9.00 pm </p>
+                            <p class="member__job">Cell no: 2135467988</p>
+                            <p class="member__job">Practicing At : KLE Belgaum</p>
 
-                    </div>
+                        </div>
                     <!-- /.member-info -->
                 </div><!-- /.member -->
             </div><!-- /.col-lg-4 -->
@@ -123,18 +123,63 @@
                         <img src="assets/images/team/doc.png" alt="member img">
                     </div><!-- /.member-img -->
                     <div class="member__info">
-                        <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr Nabeel Ghadi</a></h5>
-                        <p class="member__job">11 am to 2 pm /<br />6.30 pm to 9.30 pm</p>
-                        <p class="member__job">Cell no: 2135467988</p>
-                        <p class="member__job">Practicing At : KLE Belgaum</p>
+                            <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr Ruhinaaz</a></h5>
+                            <p class="member__job">8.00 pm to 8.00 am </p>
+                            <p class="member__job">Cell no: 2135467988</p>
+                            <p class="member__job">Practicing At : KLE Belgaum</p>
 
-                    </div>
+                        </div>
                     <!-- /.member-info -->
                 </div><!-- /.member -->
             </div><!-- /.col-lg-4 -->
             <!-- Member #6 -->
             <div class="col-sm-6 col-md-4 col-lg-4">
+            <div class="member">
+                <div class="member__img">
+                    <img src="assets/images/team/doc.png" alt="member img">
+                </div><!-- /.member-img -->
+                <div class="member__info">
+                    <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr Najib Patel</a></h5>
+                    <p class="member__job">9.00 am to 10.00 pm </p>
+                    <p class="member__job">Cell no: 2135467988</p>
+                    <p class="member__job">Practicing At : KLE Belgaum</p>
+                </div>
+                <!-- /.member-info -->
+            </div><!-- /.member -->
+            </div><!-- /.col-lg-4 -->
+            <!-- Member #7 -->
+            <div class="col-sm-6 col-md-4 col-lg-4">
+            <div class="member">
+                        <div class="member__img">
+                            <img src="assets/images/team/doc.png" alt="member img">
+                        </div><!-- /.member-img -->
+                        <div class="member__info">
+                            <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr Asim Patel</a></h5>
+                            <p class="member__job">9.00 am to 9.00 pm </p>
+                            <p class="member__job">Cell no: 2135467988</p>
+                            <p class="member__job">Practicing At : KLE Belgaum</p>
+                        </div>
+                        <!-- /.member-info -->
+                    </div><!-- /.member -->
+                    </div><!-- /.col-lg-4 -->
+            <!-- Member #8 -->
+            <div class="col-sm-6 col-md-4 col-lg-4">
+            <div class="member">
+                        <div class="member__img">
+                            <img src="assets/images/team/doc.png" alt="member img">
+                        </div><!-- /.member-img -->
+                        <div class="member__info">
+                            <h5 class="member__name"><a href="doctors-single-doctor1.html">Dr Rasula Arbar</a></h5>
+                            <p class="member__job">5.00 pm to 11.00 pm </p>
+                            <p class="member__job">Cell no: 2135467988</p>
+                            <p class="member__job">Practicing At : KLE Belgaum</p>
+                        </div>
+                        <!-- /.member-info -->
+                    </div><!-- /.member -->
+                    </div><!-- /.col-lg-4 -->
+                    
                 <!-- Member #9 -->
+                <div class="col-sm-6 col-md-4 col-lg-4">
                 <div class="member">
                     <div class="member__img">
                         <img src="assets/images/team/doc.png" alt="member img">
