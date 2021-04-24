@@ -36,7 +36,7 @@
                         <span>Contact Us</span>
                     </a> -->
                 </div>
-                <?php include('./commonFiles/covid.php') ?>
+                <?php //include('./commonFiles/covid.php') ?>
 
             </div><!-- /.col-xl-5 -->
         </div><!-- /.row -->

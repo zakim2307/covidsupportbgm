@@ -28,7 +28,7 @@
         <div class="row">
             <div class="col-12">
                 <h1 class="pagetitle__heading">COVID-19 Medicines Store in Belgaum</h1>
-                <?php include('./commonFiles/covid.php') ?>
+                <?php //include('./commonFiles/covid.php') ?>
 
             </div><!-- /.col-12 -->
         </div><!-- /.row -->

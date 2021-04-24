@@ -45,7 +45,7 @@
                         <i class="icon-arrow-right"></i>
                     </a>
                 </div> -->
-                <?php include('./commonFiles/covid.php') ?>
+                <?php //include('./commonFiles/covid.php') ?>
 
             </div><!-- /.col-xl-5 -->
         </div><!-- /.row -->

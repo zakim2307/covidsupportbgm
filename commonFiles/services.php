@@ -79,14 +79,12 @@
                                 <div class="process-item">
                                     <span class="process__number">05</span>
                                     <div class="process__icon">
-                                        <i class="icon-health-report"></i>
+                                        <i class="icon-cream"></i>
                                     </div><!-- /.process__icon -->
-                                    <h4 class="process__title">Donate For Poor</h4>
-                                    <p class="process__desc">With Donating You can help poor patients and provide for
-                                        them
-                                        Beds, Oxygen, Ventilators etc.<br /><br /></p>
-                                    <a href="donation.php" class="btn btn__secondary btn__link">
-                                        <span>Donation For Poor</span>
+                                    <h4 class="process__title">Food</h4>
+                                    <p class="process__desc">Get The List of Hotels providing food and edibles during lockdown, curfew, holidays etc<br /><br /></p>
+                                    <a href="food.php" class="btn btn__secondary btn__link">
+                                        <span>List of hotels</span>
                                         <i class="icon-arrow-right"></i>
                                     </a>
                                 </div>

@@ -27,7 +27,7 @@
     <div class="container">
         <div class="row align-items-center">
             <div class="col-12">
-            <?php include('./commonFiles/covid.php') ?>
+            <?php //include('./commonFiles/covid.php') ?>
 
             </div><!-- /.col-12 -->
         </div><!-- /.row -->

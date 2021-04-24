@@ -23,11 +23,11 @@
        page title 
     =========================== -->
 <section class="page-title page-title-layout5">
-    <div class="bg-img"><img src="assets/images/sliders/11.jpg" alt="background"></div>
+    <div class="bg-img"><img src="assets/images/banners/1.jpg" alt="background"></div>
     <div class="container">
         <div class="row">
             <div class="col-12">
-                <h1 class="pagetitle__heading">Covid-19 Free Testing Centers In Belagavi</h1>
+                <h1 class="pagetitle__heading">Hospital's Bed Availability</h1>
                 <?php //include('./commonFiles/covid.php') ?>
 
             </div><!-- /.col-12 -->
@@ -46,12 +46,13 @@
                     <table class="doctors-timetable w-100">
                         <thead>
                             <tr>
-                                <th>S.no</th>
+                                <th>Sl.no</th>
                                 <th>Name</th>
                                 <th>Incharge</th>
                                 <th>Phone</th>
                                 <th>Address</th>
-                                <th>Available Area's</th>
+                                <th>Delivery</th>
+                                <th>Per Person</th>
                                 <th>Status</th>
                             </tr>
                         </thead>
@@ -76,10 +77,10 @@
 
                                 </td>
                                 <td class="event">
-                                    <a class="event__header">5</a>
+                                    <a class="event__header">yes</a>
                                 </td>
                                 <td class="event">
-                                    <a class="event__header">Free</a>
+                                    <a class="event__header">40</a>
                                 </td>
                                 <td class="event">
                                     <a class="event__header">Availabile</a>

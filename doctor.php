@@ -31,7 +31,7 @@
                 <h1 class="pagetitle__heading">Doctors Providing COVIDCare for Poor Community. </h1>
                 <p class="pagetitle__desc">Covid Support Belgaum has been associating with best doctors for offering innovative solutions forCOVID19.
                 </p>
-                <?php include('./commonFiles/covid.php') ?>
+                <?php //include('./commonFiles/covid.php') ?>
                 <!-- <a href="#doctor-section" class="btn btn__primary btn__rounded">
                     <span>View Doctors</span>
                     <i class="icon-arrow-right"></i>

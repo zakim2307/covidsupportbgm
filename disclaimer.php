@@ -31,7 +31,7 @@
                 <p class="pagetitle__desc">Medcity has been present in Europe since 1990, offering innovative
                     solutions, specializing in medical services for treatment of medical infrastructure.
                 </p>
-                <?php include('./commonFiles/covid.php') ?>
+                <?php //include('./commonFiles/covid.php') ?>
 
             </div><!-- /.col-xl-5 -->
         </div><!-- /.row -->

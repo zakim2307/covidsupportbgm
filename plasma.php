@@ -29,7 +29,7 @@
         <div class="row">
             <div class="col-12">
                 <h1 class="pagetitle__heading">Donate Plasma For Poor Patients</h1>
-                <?php include('./commonFiles/covid.php') ?>
+                <?php //include('./commonFiles/covid.php') ?>
 
             </div><!-- /.col-12 -->
         </div><!-- /.row -->

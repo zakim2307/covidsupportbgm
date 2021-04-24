@@ -33,7 +33,7 @@
                     for
                     minor & mild Covid symptoms (24/7), Oxygen Supply, medicines, diagnostics, Plasma therapy,
                     Ambulance & Burial to belgaumites.</p> -->
-                    <?php include('./commonFiles/covid.php') ?>
+                    <?php //include('./commonFiles/covid.php') ?>
 
             </div><!-- /.col-xl-5 -->
         </div><!-- /.row -->
