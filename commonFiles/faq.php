@@ -1,4 +1,4 @@
-<section class="features-layout1 pt-130 pb-50 mt--90">
+<section class="features-layout1 pt-130 pb-50 mt-90">
     <div class="bg-img"><img src="assets/images/backgrounds/991.jpg" alt="background"></div>
     <div class="container">
         <div class="row mb-40">

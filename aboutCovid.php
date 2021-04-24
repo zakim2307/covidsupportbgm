@@ -48,17 +48,17 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <img src="assets/images/about/1.jpg" alt="about">
+                <img src="assets/images/blog/grid/6.jpg" alt="about">
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
                 <h2>What is novel coronavirus?</h2>
-                <h6>Coronavirus disease (COVID-19) is an infectious disease caused by a new virus. The disease causes
+                <p class="heading__desc color-secondary mb-30">Coronavirus disease (COVID-19) is an infectious disease caused by a new virus. The disease causes
                     respiratory illness (like the flu) with symptoms such as a cough, fever, and in more severe cases,
-                    difficulty breathing.</h6>
+                    difficulty breathing.</p>
 
-                <h6>You can protect yourself by washing your hands frequently, avoiding touching your face, and avoiding
+                    <p class="heading__desc color-secondary mb-30">You can protect yourself by washing your hands frequently, avoiding touching your face, and avoiding
                     close contact (1 meter or 3 feet) distances with who are unwell.
-                </h6>
+</p>
             </div>
         </div><!-- /.col-12 -->
     </div><!-- /.row -->
@@ -77,10 +77,10 @@
             <div class="col-sm-12 col-md-12 col-lg-6">
                 <div class="heading__layout2 mb-50">
                     <h2 class="heading__title color-white">What are the symptoms?</h2>
-                    <h4 class="heading__title color-white">
+                    <p class="heading__title color-white">
                         COVID-19 symptoms range from mild to severe. It takes 2-14 days after exposure for symptoms to
                         develop. Symptoms may include:
-                    </h4>
+</p>
                     <!-- <ul class="list-items list-items-layout2 list-items-light list-horizontal list-unstyled"> -->
                     <ul class="list-items list-items-light list-horizontal list-unstyled">
                         <li>Fractures and dislocations</li>
@@ -92,7 +92,7 @@
                 </div>
             </div><!-- /col-lg-6 -->
             <div class="col-sm-12 col-md-12 col-lg-6">
-                <img src="assets/images/about/1.jpg" alt="about">
+                <img src="assets/images/blog/grid/1.jpg" alt="about">
             </div>
         </div><!-- /.row -->
         <div class="row mb-100">
@@ -123,7 +123,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <img src="assets/images/about/1.jpg" alt="about">
+                <img src="assets/images/blog/grid/3.jpg" alt="about">
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
                 <h2>How does novel coronavirus spread?</h2>

@@ -1,3 +1,103 @@
 covidmed
 
 unused
+
+<section class="testimonials-layout3 pt-130 bg-overlay bg-overlay-primary">
+  <div class="bg-img"><img src="assets/images/banners/1.jpg" alt="background"></div>
+  <div class="container">
+    <div class="testimonials-wrapper">
+      <div class="row">
+      
+          <div class="col-sm-12 col-md-12 col-lg-12">
+            <div class="slider-with-navs">
+            <!-- Testimonial #1 -->
+            <div class="testimonial-item d-flex flex-wrap">
+              <div class="col-sm-6 col-md-6 col-lg-6">
+                <div class="d-flex flex-column">
+                <div class="heading-layout2">
+                  <h3 class="heading__title color-secondary">Message from DC</h3>
+                </div><!-- /.heading -->
+                <img src="assets/images/blog/grid/4.jpg" class="img-fluid" alt="image with a message"/>
+              </div>
+              </div>
+              <div class="col-sm-6 col-md-6 col-lg-6">
+              <h6 class="testimonial__title">“Their doctors include highly qualified practitioners who come from a
+                range of backgrounds and bring with them a diversity of skills and special interests. They also have
+                registered nurses on staff who are available to triage any urgent matters, and the administration
+                and support staff all have exceptional people skills”
+              </h6>
+              </div>
+            </div><!-- /. testimonial-item -->
+            <div class="testimonial-item d-flex flex-wrap">
+              <div class="col-sm-6 col-md-6 col-lg-6">
+                <div class="d-flex flex-column">
+                <div class="heading-layout2">
+                  <h3 class="heading__title color-secondary">Message from DC</h3>
+                </div><!-- /.heading -->
+                <img src="assets/images/blog/grid/4.jpg" class="img-fluid" alt="image with a message"/>
+              </div>
+              </div>
+              <div class="col-sm-6 col-md-6 col-lg-6">
+              <h6 class="testimonial__title">“Their doctors include highly qualified practitioners who come from a
+                range of backgrounds and bring with them a diversity of skills and special interests. They also have
+                registered nurses on staff who are available to triage any urgent matters, and the administration
+                and support staff all have exceptional people skills”
+              </h6>
+              </div>
+            </div><!-- /. testimonial-item -->
+            <div class="testimonial-item d-flex flex-wrap">
+              <div class="col-sm-6 col-md-6 col-lg-6">
+                <div class="d-flex flex-column">
+                <div class="heading-layout2">
+                  <h3 class="heading__title color-secondary">Message from DC</h3>
+                </div><!-- /.heading -->
+                <div>
+
+                  <img src="assets/images/blog/grid/4.jpg" class="img-fluid" alt="image with a message"/>
+              </div>
+                </div>  
+              </div>
+              <div class="col-sm-6 col-md-6 col-lg-6">
+              <h6 class="testimonial__title">“Their doctors include highly qualified practitioners who come from a
+                range of backgrounds and bring with them a diversity of skills and special interests. They also have
+                registered nurses on staff who are available to triage any urgent matters, and the administration
+                and support staff all have exceptional people skills”
+              </h6>
+              </div>
+            </div><!-- /. testimonial-item -->
+           
+          </div><!-- /.slick-carousel -->
+          <div class="slider-nav mb-60 d-flex d-sm-none d-md-none d-lg-none d-xs-none d-xl-none">
+            <div class="testimonial__meta">
+              <div class="testimonial__thmb">
+                <img src="assets/images/testimonials/thumbs/1.png" alt="author thumb">
+              </div><!-- /.testimonial-thumb -->
+              <div>
+                <h4 class="testimonial__meta-title">Sami Wade</h4>
+                <p class="testimonial__meta-desc">7oroof Inc</p>
+              </div>
+            </div><!-- /.testimonial-meta -->
+            <div class="testimonial__meta">
+              <div class="testimonial__thmb">
+                <img src="assets/images/testimonials/thumbs/2.png" alt="author thumb">
+              </div><!-- /.testimonial-thumb -->
+              <div>
+                <h4 class="testimonial__meta-title">Ahmed</h4>
+                <p class="testimonial__meta-desc">Web Inc</p>
+              </div>
+            </div><!-- /.testimonial-meta -->
+            <div class="testimonial__meta">
+              <div class="testimonial__thmb">
+                <img src="assets/images/testimonials/thumbs/3.png" alt="author thumb">
+              </div><!-- /.testimonial-thumb -->
+              <div>
+                <h4 class="testimonial__meta-title">Sonia Blake</h4>
+                <p class="testimonial__meta-desc">Web Inc</p>
+              </div>
+            </div><!-- /.testimonial-meta -->
+          </div><!-- /.slider-nav -->
+        </div><!-- /.col-lg-7 -->
+      </div><!-- /.row -->
+    </div><!-- /.testimonials-wrapper -->
+  </div><!-- /.container -->
+</section><!-- /.testimonials layout 3 -->

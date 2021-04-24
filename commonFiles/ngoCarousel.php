@@ -8,7 +8,7 @@
           <div class="col-sm-12 col-md-12 col-lg-6">
             <div class="heading-layout1 heading-light mb-60">
               <h3 class="heading__title">NGOs Working with Us</h3>
-              <p class="heading__desc">COVID Support Belgaum, has curated all the important information along with the services being offered by various NGOs in Belgaum. </p>
+              <p class="heading__desc">COVID Support Belgaum, has curated all the important information along with the services being offered by Governament of India and various NGOs in Belgaum. </p>
             </div><!-- /.heading -->
           </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
@@ -90,7 +90,7 @@
         <div class="row">
           <div class="col-12 d-flex justify-content-end mt--20">
             <a href="volunteerRegister.php" class="btn btn__white btn__rounded ml-30" style="align-items: center;">
-              <span>Register as Volunteer</span>
+              <span>To Support The Cause Register as Volunteer</span>
             </a>
           </div><!-- /.col-12 -->
         </div><!-- /.row -->

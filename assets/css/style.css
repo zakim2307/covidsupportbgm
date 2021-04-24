@@ -150,6 +150,13 @@ textarea {
   }
 }
 
+@media (min-width: 1261px) and (max-width: 1317px) {
+  html,
+  body {
+    overflow-x: hidden;
+  }
+}
+
 /*----------------------------
       Helper Classes
 ----------------------------*/
@@ -4755,6 +4762,10 @@ ul.heading__desc .list-items li {
   }
 }
 
+.testimonials-wrapper .slick-dots li.slick-active button {
+  background-color: #fff !important;
+}
+
 /*-------------------------
     Call to Action
 --------------------------*/
@@ -5045,7 +5056,7 @@ ul.heading__desc .list-items li {
   }
 
   .slider .slick-arrow {
-    display: none;
+    display: block;
   }
 }
 
@@ -5969,7 +5980,7 @@ ul.heading__desc .list-items li {
 }
 
 .testimonials-layout1 .slick-dots {
-  display: none !important;
+  display: block !important;
   position: absolute;
   bottom: -40px;
   right: 0;
@@ -5992,7 +6003,7 @@ ul.heading__desc .list-items li {
 
 .testimonials-layout2 .slick-dots,
 .testimonials-layout3 .slick-dots {
-  display: none !important;
+  display: block !important;
 }
 
 .testimonials-layout2 .slider-nav,

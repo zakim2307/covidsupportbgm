@@ -111,9 +111,7 @@
                             <li class="nav__item">
                                 <a href="donation.php" class="nav__item-link">Donations</a>
                             </li><!-- /.nav-item -->
-                            <li class="nav__item">
-                                <a href="newsPages.php" class="nav__item-link">News</a>
-                            </li><!-- /.nav-item -->
+                            
                             <li class="nav__item has-dropdown">
                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Media</a>
                                 <ul class="dropdown-menu">
@@ -123,12 +121,16 @@
                                     <li class="nav__item">
                                         <a href="gallary.php" class="nav__item-link">Media Gallery</a>
                                     </li><!-- /.nav-item -->
-                                </ul><!-- /.dropdown-menu -->
+                                    <li class="nav__item">
+                                <a href="newsPages.php" class="nav__item-link">News</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
                                 <a href="disclaimer.php" class="nav__item-link">Disclaimer</a>
                             </li><!-- /.nav-item -->
-                            <div class="d-sm-flex d-xl-none">
+                                </ul><!-- /.dropdown-menu -->
+                            </li><!-- /.nav-item -->
+                            
+                            <div class="d-sm-flex d-lg-none d-xl-none">
                                 <li class="nav__item">
                                     <a href="services.php" class="nav__item-link">Services</a>
                                 </li>

@@ -171,6 +171,9 @@
         </div><!-- /.cta -->
     </section><!-- /.Work Process -->
 
+    <?php include('./commonFiles/ngoList.php') ?>
+
+
     <?php include('./commonFiles/aboutus.php') ?>
 
     <!-- ======================
@@ -307,7 +310,7 @@
                 <div class="col-sm-12 col-md-6 col-lg-4">
                     <div class="post-item">
                         <div class="post__img">
-                            <a href="blog-single-post.html">
+                            <a href="news1.php">
                                 <img src="assets/images/blog/grid/1.jpg" alt="post image" loading="lazy">
                             </a>
                         </div><!-- /.post__img -->
@@ -317,9 +320,9 @@
                             </div><!-- /.blog-meta-cat -->
                             <div class="post__meta d-flex">
                                 <span class="post__meta-date">Jan 30, 2022</span>
-                                <a class="post__meta-author" href="#">Martin King</a>
+                                <a class="post__meta-author" href="news1.php">Martin King</a>
                             </div>
-                            <h4 class="post__title"><a href="#">6 Tips to Protect Your Mental Health When You’re
+                            <h4 class="post__title"><a href="news1.php">6 Tips to Protect Your Mental Health When You’re
                                     Sick</a></h4>
 
                             <p class="post__desc">It’s normal to feel anxiety, worry and grief any time you’re
@@ -329,7 +332,7 @@
                                 presumed to be
                                 positive...
                             </p>
-                            <a href="blog-single-post.html" class="btn btn__secondary btn__link btn__rounded">
+                            <a href="news1.php" class="btn btn__secondary btn__link btn__rounded">
                                 <span>Read More</span>
                                 <i class="icon-arrow-right"></i>
                             </a>
@@ -340,7 +343,7 @@
                 <div class="col-sm-12 col-md-6 col-lg-4">
                     <div class="post-item">
                         <div class="post__img">
-                            <a href="blog-single-post.html">
+                            <a href="news1.php">
                                 <img src="assets/images/blog/grid/2.jpg" alt="post image" loading="lazy">
                             </a>
                         </div><!-- /.post__img -->
@@ -352,7 +355,7 @@
                                 <span class="post__meta-date">Jan 30, 2022</span>
                                 <a class="post__meta-author" href="#">John Ezak</a>
                             </div>
-                            <h4 class="post__title"><a href="#">Unsure About Wearing a Face Mask? Here’s How and
+                            <h4 class="post__title"><a href="news1.php">Unsure About Wearing a Face Mask? Here’s How and
                                     Why</a>
                             </h4>
                             <p class="post__desc">That means that you should still be following any
@@ -361,7 +364,7 @@
                                 community. But when you’re venturing out to the grocery store, pharmacy or
                                 hospital..
                             </p>
-                            <a href="blog-single-post.html" class="btn btn__secondary btn__link btn__rounded">
+                            <a href="news1.php" class="btn btn__secondary btn__link btn__rounded">
                                 <span>Read More</span>
                                 <i class="icon-arrow-right"></i>
                             </a>
@@ -372,7 +375,7 @@
                 <div class="col-sm-12 col-md-6 col-lg-4">
                     <div class="post-item">
                         <div class="post__img">
-                            <a href="blog-single-post.html">
+                            <a href="news1.php">
                                 <img src="assets/images/blog/grid/3.jpg" alt="post image" loading="lazy">
                             </a>
                         </div><!-- /.post__img -->
@@ -384,7 +387,7 @@
                                 <span class="post__meta-date">Jan 28, 2022</span>
                                 <a class="post__meta-author" href="#">Saul Wade</a>
                             </div>
-                            <h4 class="post__title"><a href="#">Tips for Eating Healthy When You’re Working From
+                            <h4 class="post__title"><a href="news1.php">Tips for Eating Healthy When You’re Working From
                                     Home
                                 </a></h4>
 
@@ -395,7 +398,7 @@
                                 presumed to be
                                 positive...
                             </p>
-                            <a href="blog-single-post.html" class="btn btn__secondary btn__link btn__rounded">
+                            <a href="news1.php" class="btn btn__secondary btn__link btn__rounded">
                                 <span>Read More</span>
                                 <i class="icon-arrow-right"></i>
                             </a>
