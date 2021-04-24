@@ -116,7 +116,7 @@
                 </div>
             </div>
         </div>
-        <div class="container mt-50">
+        <div class="container mt-50" id="services">
             <div class="row heading-layout2">
                 <div class="col-12">
                     <h2 class="heading__subtitle color-primary">Caring for humanity. 

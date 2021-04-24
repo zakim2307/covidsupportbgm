@@ -145,7 +145,7 @@
                     <div class="d-none d-xl-flex align-items-center position-relative ml-30">
                         <div class="miniPopup-departments-trigger">
                             <span class="menu-lines" id="miniPopup-departments-trigger-icon"><span></span></span>
-                            <a href="services.php">Services</a>
+                            <a href="#services">Services</a>
                         </div>
                         <ul id="miniPopup-departments" class="miniPopup miniPopup-departments dropdown-menu">
                             <li class="nav__item">

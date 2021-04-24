@@ -2989,9 +2989,9 @@ ul.heading__desc .list-items li {
   line-height: 100px;
 }
 
-.navbar-brand > img {
-  max-width: 75%;
-}
+/* .navbar-brand > img { */
+  /* max-width: 75%; */
+/* } */
 
 .navbar .logo-light {
   display: none;
