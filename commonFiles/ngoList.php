@@ -19,7 +19,7 @@
                 data-slick='{"slidesToShow": 1, "slidesToScroll": 1, "autoplay": true, "arrows": true, "dots": true, "responsive": [ {"breakpoint": 992, "settings": {"slidesToShow": 2}}, {"breakpoint": 767, "settings": {"slidesToShow": 1}}, {"breakpoint": 480, "settings": {"slidesToShow": 1}}]}'>
                 <!-- service item #1 -->
                 <div class="service-item-new">
-                  <div class="d-flex flex-row justify-content-around align-items-center">
+                  <div class="d-flex flex-row flex-wrap justify-content-around align-items-center">
                   <div class="col-sm-12 col-md-12 col-lg-6 service__img">
                   <h4 class="service__title" style="color: #ffffff;">Message From DC of Belgaum</h4>
                     <img src="assets/images/blog/grid/3.jpg" alt="img" loading="lazy">
@@ -36,7 +36,7 @@
                 </div><!-- /.service-item -->
                 <!-- service item #2 -->
                 <div class="service-item-new">
-                  <div class="d-flex flex-row justify-content-around align-items-center">
+                  <div class="d-flex flex-row flex-wrap justify-content-around align-items-center">
                   <div class="col-sm-12 col-md-12 col-lg-6 service__img">
                   <h4 class="service__title" style="color: #ffffff;">Message From DC of Belgaum</h4>
                     <img src="assets/images/blog/grid/3.jpg" alt="img" loading="lazy">
@@ -52,7 +52,7 @@
                 </div>
                 </div><!-- /.service-item -->
                 <div class="service-item-new">
-                  <div class="d-flex flex-row justify-content-around align-items-center">
+                  <div class="d-flex flex-row flex-wrap justify-content-around align-items-center">
                   <div class="col-sm-12 col-md-12 col-lg-6 service__img">
                   <h4 class="service__title" style="color: #ffffff;">Message From DC of Belgaum</h4>
                     <img src="assets/images/blog/grid/3.jpg" alt="img" loading="lazy">
@@ -69,7 +69,7 @@
                 </div><!-- /.service-item -->
                 <!-- service item #4 -->
                 <div class="service-item-new">
-                  <div class="d-flex flex-row justify-content-around align-items-center">
+                  <div class="d-flex flex-row flex-wrap justify-content-around align-items-center">
                   <div class="col-sm-12 col-md-12 col-lg-6 service__img">
                   <h4 class="service__title" style="color: #ffffff;">Message From DC of Belgaum</h4>
                     <img src="assets/images/blog/grid/3.jpg" alt="img" loading="lazy">
@@ -85,7 +85,7 @@
                 </div>
                 </div><!-- /.service-item -->
                 <div class="service-item-new">
-                  <div class="d-flex flex-row justify-content-around align-items-center">
+                  <div class="d-flex flex-row flex-wrap justify-content-around align-items-center">
                   <div class="col-sm-12 col-md-12 col-lg-6 service__img">
                   <h4 class="service__title" style="color: #ffffff;">Message From DC of Belgaum</h4>
                     <img src="assets/images/blog/grid/3.jpg" alt="img" loading="lazy">
@@ -102,7 +102,7 @@
                 </div><!-- /.service-item -->
                 <!-- service item #6 -->
                 <div class="service-item-new">
-                  <div class="d-flex flex-row justify-content-around align-items-center">
+                  <div class="d-flex flex-row flex-wrap justify-content-around align-items-center">
                   <div class="col-sm-12 col-md-12 col-lg-6 service__img">
                   <h4 class="service__title" style="color: #ffffff;">Message From DC of Belgaum</h4>
                     <img src="assets/images/blog/grid/3.jpg" alt="img" loading="lazy">
