@@ -41,8 +41,6 @@
     </div><!-- /.container -->
 </section><!-- /.page-title -->
 
-<?php include('./commonFiles/contact-info.php') ?>
-
 <!-- ======================
 Features Layout 1
 ========================= -->

@@ -32,9 +32,9 @@
                 <h1 class="pagetitle__heading">PREPARE, DO NOT PANIC</h1>
                 <p class="pagetitle__desc">COVID Support Belgaum, has curated all the important information along with the services being offered by various NGOs in Belgaum. </p>
                 <div class="d-flex flex-wrap align-items-center">
-                    <a href="contact.php" class="btn btn__secondary btn__outlined btn__rounded">
+                    <!-- <a href="contact.php" class="btn btn__secondary btn__outlined btn__rounded">
                         <span>Contact Us</span>
-                    </a>
+                    </a> -->
                 </div>
                 <?php include('./commonFiles/covid.php') ?>
 
@@ -42,8 +42,6 @@
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section><!-- /.page-title -->
-
-<?php include('./commonFiles/contact-info.php') ?>
 
 <!-- ========================
         Services Layout 1

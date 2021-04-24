@@ -1,4 +1,4 @@
-<div class="cta1">
+<div class="cta1 mt-20">
     <!-- /.container -->
     <div class="container">
         <div class="row">
@@ -7,20 +7,22 @@
                     <div class="">
                         <div class="row">
                             <!-- process item #1 -->
-                            <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
-                                <div class="process-item">
-                                    <span class="process__number">01</span>
-                                    <div class="process__icon">
-                                        <i class="icon-hospital"></i>
-                                    </div><!-- /.process__icon -->
-                                    <h4 class="process__title">Bed Availability</h4>
-                                    <p class="process__desc">List of beds available across Belgaum<br /><br /><br /></p>
-                                    <a href="bedAvailability.php" class="btn btn__secondary btn__link">
-                                        <span>Check Bed Availability</span>
-                                        <i class="icon-arrow-right"></i>
-                                    </a>
+                            <!-- <a href="bedAvailability.php"> -->
+                                <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">
+                                    <div class="process-item">
+                                        <span class="process__number">01</span>
+                                        <div class="process__icon">
+                                            <i class="icon-hospital"></i>
+                                        </div><!-- /.process__icon -->
+                                        <h4 class="process__title">Bed Availability</h4>
+                                        <p class="process__desc">List of beds available across Belgaum<br /><br /><br /></p>
+                                        <a href="bedAvailability.php" class="btn btn__secondary btn__link">
+                                            <span>Check Bed Availability</span>
+                                            <i class="icon-arrow-right"></i>
+                                        </a>
+                                    </div>
                                 </div>
-                            </div>
+                            <!-- </a> -->
                             <!-- /.process-item -->
                             <!-- process-item #2 -->
                             <div class="col-12 col-sm-6 col-md-4 col-lg-3 mb-4 mt-2">

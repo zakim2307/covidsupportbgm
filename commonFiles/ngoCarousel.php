@@ -89,9 +89,8 @@
         </div><!-- /.row -->
         <div class="row">
           <div class="col-12 d-flex justify-content-end mt--20">
-            <a href="NGO.php" class="btn btn__white btn__link">
-              <span>View All </span>
-              <i class="icon-arrow-right"></i>
+            <a href="doctor.php" class="btn btn__primary btn__rounded ml-30" style="align-items: center;">
+              <span>Register as Volunteer</span>
             </a>
           </div><!-- /.col-12 -->
         </div><!-- /.row -->

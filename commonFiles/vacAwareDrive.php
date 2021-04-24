@@ -1,7 +1,7 @@
     <!-- ========================= 
       Testimonials layout 1
       =========================  -->
-      <section class="testimonials-layout1 pt-130 pb-80">
+      <section class="testimonials-layout1 pt-130 pb-80 mb-20">
       <div class="container">
         <div class="testimonials-wrapper">
           <div class="row">
@@ -46,22 +46,24 @@
               </div><!-- /.slider-nav -->
             </div><!-- /.col-lg-5 -->
             <div class="col-sm-12 col-md-12 col-lg-7">
-              <div class="slider-with-navs">
+              <div class="">
                 <!-- Testimonial #1 -->
                 <div class="testimonial-item">
                   <h3 class="testimonial__title">“Covid Support Belgaum and various NGOs in Belgaum have conducted several vaccine awareness drives in Belgaum.”
                   </h3>
                 </div><!-- /. testimonial-item -->
                 <!-- Testimonial #2 -->
-                <div class="testimonial-item">
+                <!-- <div class="testimonial-item">
                   <h3 class="testimonial__title">“Covid Support Belgaum and various NGOs in Belgaum have conducted several vaccine awareness drives in Belgaum.”
                   </h3>
-                </div><!-- /. testimonial-item -->
+                </div> -->
+                <!-- /. testimonial-item -->
                 <!-- Testimonial #3 -->
-                <div class="testimonial-item">
+                <!-- <div class="testimonial-item">
                   <h3 class="testimonial__title">“Covid Support Belgaum and various NGOs in Belgaum have conducted several vaccine awareness drives in Belgaum.”
                   </h3>
-                </div><!-- /. testimonial-item -->
+                </div> -->
+                <!-- /. testimonial-item -->
               </div><!-- /.slick-carousel -->
               <!-- <div class="testimonials__rating">
                 <div class="testimonials__rating-inner d-flex align-items-center">

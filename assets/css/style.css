@@ -1043,8 +1043,12 @@ textarea {
   }
 
   .d-flex-hidden-small {
-    display: none !important;
+    /* display: none !important; */
   }
+
+  /* .d-flex-hidden-big {
+    display: block !important;
+  } */
 
   .mt-0-xs-sm {
     margin-top: 0 !important;
@@ -1180,6 +1184,10 @@ textarea {
 }
 
 .slick current {
+}
+
+.d-flex-hidden-big {
+  display: none;
 }
 
 .bg-overlay-primary-gradient:before {
@@ -4993,7 +5001,7 @@ ul.heading__desc .list-items li {
 
   .slider .slide-item {
     min-height: 0;
-    padding: 100px 10px;
+    padding: 50px 0px;
     height: auto !important;
   }
 
@@ -9289,4 +9297,9 @@ textarea.form-control {
 
 .about-layout2-img {
   background-image: url(../images/backgrounds/1.jpg);
+}
+
+.btn-center-justify {
+  justify-content: center;
+  display: flex;
 }

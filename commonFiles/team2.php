@@ -138,8 +138,8 @@
                         <!-- /.member-info -->
                     </div><!-- /.member -->
                 </div><!-- /.carousel -->
-                <div>
-                    <a href="doctor.php" class="btn btn__primary btn__rounded ml-30">
+                <div class="btn-center-justify mt-10">
+                    <a href="doctor.php" class="btn btn__primary btn__rounded ml-30" style="align-items: center;">
 
                         <span>View All</span>
                     </a>

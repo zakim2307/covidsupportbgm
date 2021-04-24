@@ -66,6 +66,19 @@
                                         <button class="header-topbar__search-btn"><i class="fa fa-search"></i></button>
                                     </form> -->
                                 </div>
+                                <!-- <div class="d-flex d-flex-hidden-big"> -->
+                                <!-- <div class="d-flex"> -->
+                                    <!-- <ul class="social-icons list-unstyled mb-0 mr-30">
+                                        <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                        <li><a href="#"><i class="fab fa-twitter"></i></a></li> -->
+                                    <!-- </ul> -->
+                                    <!-- /.social-icons -->
+                                    <!-- <form class="header-topbar__search">
+                                        <input type="text" class="form-control" placeholder="Search...">
+                                        <button class="header-topbar__search-btn"><i class="fa fa-search"></i></button>
+                                    </form> -->
+                                <!-- </div> -->
                             </div>
                         </div><!-- /.col-12 -->
                     </div><!-- /.row -->
@@ -118,6 +131,12 @@
                             <div class="d-sm-flex d-xl-none">
                                 <li class="nav__item">
                                     <a href="services.php" class="nav__item-link">Services</a>
+                                </li>
+                                <li>
+                                    <a href="contact.php" class="btn btn__primary btn__rounded ml-30">
+                                        <!-- <i class="icon-calendar"></i> -->
+                                        <span>Contact ERT</span>
+                                    </a>
                                 </li><!-- /.nav-item -->
                             </div>
                         </ul><!-- /.navbar-nav -->

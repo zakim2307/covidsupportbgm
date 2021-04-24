@@ -24,13 +24,12 @@
        page title 
     =========================== -->
 <section class="page-title page-title-layout1 bg-overlay">
-    <div class="bg-img"><img src="assets/images/page-titles/7.jpg" alt="background"></div>
+    <div class="bg-img"><img src="assets/images/sliders/11.jpg" alt="background"></div>
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5">
-                <h1 class="pagetitle__heading">Providing Care for The Sickest In Community. </h1>
-                <p class="pagetitle__desc">Medcity has been present in Europe since 1990, offering innovative solutions,
-                    specializing in medical services for treatment of medical infrastructure.
+                <h1 class="pagetitle__heading">Doctors Providing COVIDCare for Poor Community. </h1>
+                <p class="pagetitle__desc">Covid Support Belgaum has been associating with best doctors for offering innovative solutions forCOVID19.
                 </p>
                 <?php include('./commonFiles/covid.php') ?>
                 <!-- <a href="#doctor-section" class="btn btn__primary btn__rounded">

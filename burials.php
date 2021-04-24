@@ -62,40 +62,28 @@
                                     1
                                 </td>
                                 <td class="event">
-                                    <a class="event__header" href="#">KLE Hospital</a>
-                                    <div class="event__type">Consultation</div>
-                                    <div class="doctor__name">Dr. P. KORE</div>
+                                    <a class="event__header">KLE Hospital</a>
+                                    <a class="event__header">Belgaum</a>
                                 </td>
                                 <td class="event">
-                                    <a class="event__header" href="#">MR Nara</a>
-                                    <div class="event__type">KLE's institute</div>
-                                    <div class="doctor__name">MBBS</div>
+                                    <a class="event__header">MR Narayan Krishna</a>
                                 </td>
                                 <td class="event">
-                                    <a class="event__header" href="tel:+917406828173">Phone No</a>
-                                    <div class="event__type" tel="">+91 8945672130</div>
-                                    <div class="doctor__name">Reception</div>
+                                    <a class="event__header">+91 8945672130</a>
                                 </td>
                                 <td class="event">
-                                    <a class="event__header" href="#">Ramdev hotel</a>
-                                    <div class="event__type">Analysis</div>
-                                    <div class="doctor__name">This that</div>
-                                    <hr>
+                                    <a class="event__header">Shivbasav Nagar</a>
+                                    <a class="event__header">Belgaum</a>
+
                                 </td>
                                 <td class="event">
-                                    <a class="event__header" href="#">No of Beds</a>
-                                    <div class="event__type">50</div>
-                                    <div class="doctor__name">Whole Hospital</div>
+                                    <a class="event__header">5</a>
                                 </td>
                                 <td class="event">
-                                    <a class="event__header" href="#"></a>
-                                    <div class="event__type">Free</div>
-                                    <div class="doctor__name"></div>
+                                    <a class="event__header">Free</a>
                                 </td>
                                 <td class="event">
-                                    <a class="event__header" href="#"></a>
-                                    <div class="event__type">Consultation</div>
-                                    <div class="doctor__name"></div>
+                                    <a class="event__header">Availabile</a>
                                 </td>
                             </tr>
 
