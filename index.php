@@ -14,6 +14,26 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
     <link rel="stylesheet" href="assets/css/libraries.css">
     <link rel="stylesheet" href="assets/css/style.css">
+
+    <script>
+function showResult(str) {
+  if (str.length==0) {
+    document.getElementById("livesearch").innerHTML="";
+    document.getElementById("livesearch").style.border="0px";
+    return;
+  }
+  var xmlhttp=new XMLHttpRequest();
+  xmlhttp.onreadystatechange=function() {
+    document.getElementById("livesearch").innerHTML="";
+    if (this.readyState==4 && this.status==200) {
+      document.getElementById("livesearch").innerHTML=this.responseText;
+      document.getElementById("livesearch").style.border="1px solid #A5ACB2";
+    }
+  }
+  xmlhttp.open("GET","./commonFiles/livesearch.php?q="+str,true);
+  xmlhttp.send();
+}
+</script>
 </head>
 
    
@@ -111,8 +131,10 @@
                       <div class="row">
                             <div class="col-12">  
                                 <div>
-                                    <input type="text" class="form-control" placeholder="Search for Oxygen Cylinders, Testing Centers, Bed Availability...">
-
+                                    <form>
+                                        <input type="text" onkeyup="showResult(this.value)" class="form-control" placeholder="Search for Oxygen Cylinders, Testing Centers, Bed Availability...">
+                                        <div id="livesearch"></div>
+                                    </form>
                                 </div>
                                 <div>
                                     <!-- <button class="header-topbar__search-btn"><i class="fa fa-search"></i></button> -->
