@@ -1,3 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="Medcity - Medical Healthcare HTML5 Template">
+    <link href="assets/images/favicon/favicon.png" rel="icon">
+    <title>Medcity - Medical Healthcare HTML5 Template</title>
+
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+    <link rel="stylesheet" href="assets/css/libraries.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+   
     <?php include('./commonFiles/header.php') ?>
 
     <!-- ============================
@@ -10,7 +29,7 @@
                 <div class="bg-img"><img src="assets/images/sliders/mainBanner.png" alt="slide img"></div>
                 <div class="container">
                     <div class="row align-items-right">
-                        <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
+                        <div class="col-sm-4 col-md-6 col-lg-12">
                             <div class="slide__content">
                                 <h2 class="slide__title">Rise Against COVID</h2>
                                 <p  class="slide__title2">Lets fight the pandemic together</p>
@@ -72,7 +91,7 @@
 
 
     <div class='show-only-in-web'>
-        <?php include('./commonFiles/contact-info.php') ?>
+        <?php //include('./commonFiles/contact-info.php') ?>
     </div>
 
     <!-- ======================

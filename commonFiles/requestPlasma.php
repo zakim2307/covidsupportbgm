@@ -6,9 +6,7 @@
         <div class="row">
             <div class="col-12">
                 <div>
-                    <h4>To Request Plasma You Can Visit <a
-                            href="https://docs.google.com/forms/d/e/1FAIpQLSd5gp7jyE0C8-KHar5SFOb_9zsjBzq1xo3-gZ5U0LM9rBv6mQ/viewform">Here</a>
-                    </h4>
+                    <h4>To request plasma please fill below form</h4>
                 </div>
                 <div class="contact-panel d-flex flex-wrap">
                     <form class="contact-panel__form" method="post" action="assets/php/contact.php" id="contactForm">

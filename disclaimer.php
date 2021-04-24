@@ -1,3 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="Medcity - Medical Healthcare HTML5 Template">
+    <link href="assets/images/favicon/favicon.png" rel="icon">
+    <title>Medcity - Medical Healthcare HTML5 Template</title>
+
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+    <link rel="stylesheet" href="assets/css/libraries.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+
 <?php include('./commonFiles/header.php') ?>
 
 <!-- ========================
@@ -12,16 +31,8 @@
                 <p class="pagetitle__desc">Medcity has been present in Europe since 1990, offering innovative
                     solutions, specializing in medical services for treatment of medical infrastructure.
                 </p>
-                <div class="d-flex flex-wrap align-items-center">
-                    <a href="appointment.html" class="btn btn__primary btn__rounded mr-30">
-                        <span>Find A Doctor</span>
-                        <i class="icon-arrow-right"></i>
-                    </a>
-                    <a href="services.html" class="btn btn__white btn__rounded">
-                        <span>Our Services</span>
-                        <i class="icon-arrow-right"></i>
-                    </a>
-                </div>
+                <?php include('./commonFiles/covid.php') ?>
+
             </div><!-- /.col-xl-5 -->
         </div><!-- /.row -->
     </div><!-- /.container -->

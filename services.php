@@ -1,3 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="Medcity - Medical Healthcare HTML5 Template">
+    <link href="assets/images/favicon/favicon.png" rel="icon">
+    <title>Medcity - Medical Healthcare HTML5 Template</title>
+
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+    <link rel="stylesheet" href="assets/css/libraries.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+
 <?php include('./commonFiles/header.php') ?>
 
 
@@ -5,20 +24,20 @@
        page title 
     =========================== -->
 <section class="page-title page-title-layout1 bg-overlay">
-    <div class="bg-img"><img src="assets/images/page-titles/2.jpg" alt="background"></div>
+    <div class="bg-img"><img src="assets/images/sliders/11.jpg" alt="background"></div>
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 col-xl-5">
-                <span class="pagetitle__subheading">Caring For The Health Of You And Your Family.</span>
-                <h1 class="pagetitle__heading">We Provide All Aspects Of Covid Practice For Your Whole Family!</h1>
-                <p class="pagetitle__desc">Medcity has been present in Europe since 1990, offering innovative
-                    solutions, specializing in medical services for treatment of medical infrastructure.
-                </p>
+                <span class="pagetitle__subheading">Caring for humanity.</span>
+                <h1 class="pagetitle__heading">PREPARE, DO NOT PANIC</h1>
+                <p class="pagetitle__desc">COVID Support Belgaum, has curated all the important information along with the services being offered by various NGOs in Belgaum. </p>
                 <div class="d-flex flex-wrap align-items-center">
                     <a href="contact.php" class="btn btn__secondary btn__outlined btn__rounded">
                         <span>Contact Us</span>
                     </a>
                 </div>
+                <?php include('./commonFiles/covid.php') ?>
+
             </div><!-- /.col-xl-5 -->
         </div><!-- /.row -->
     </div><!-- /.container -->

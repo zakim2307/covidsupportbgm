@@ -1,21 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="description" content="Medcity - Medical Healthcare HTML5 Template">
+    <link href="assets/images/favicon/favicon.png" rel="icon">
+    <title>Medcity - Medical Healthcare HTML5 Template</title>
+
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;500;600;700&family=Roboto:wght@400;700&display=swap">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
+    <link rel="stylesheet" href="assets/css/libraries.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+
 <?php include('./commonFiles/header.php') ?>
 
 <!-- ========================
        page title 
     =========================== -->
 <section class="page-title pt-30 pb-30 text-center">
+<div class="bg-img"><img src="assets/images/banners/1.jpg" alt="background"></div>
     <div class="container">
         <div class="row align-items-center">
             <div class="col-12">
-                <nav>
-                    <ol class="breadcrumb mb-0">
-                        <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                        <li class="breadcrumb-item"><a href="blog.html">Blog</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">6 Tips to Protect Your Mental
-                            Health When You’re
-                            Sick</li>
-                    </ol>
-                </nav>
+            <?php include('./commonFiles/covid.php') ?>
+
             </div><!-- /.col-12 -->
         </div><!-- /.row -->
     </div><!-- /.container -->

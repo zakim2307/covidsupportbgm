@@ -5,7 +5,7 @@
         <div class="footer-primary">
             <div class="container">
                 <div class="row">
-                    <div class="col-sm-12 col-md-12 col-lg-3">
+                    <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="footer-widget-about">
                             <img src="assets/images/logo/logo-light.png" alt="logo" class="mb-30">
                             <p class="color-gray">Our goal is to deliver quality of care in a courteous, respectful, and
@@ -18,7 +18,7 @@
                             </a>
                         </div><!-- /.footer-widget__content -->
                     </div><!-- /.col-xl-2 -->
-                    <div class="col-sm-6 col-md-6 col-lg-2 offset-lg-1">
+                    <div class="col-sm-4 col-md-4 col-lg-2 offset-lg-1">
                         <div class="footer-widget-nav">
                             <h6 class="footer-widget__title">Services</h6>
                             <nav>
@@ -38,7 +38,7 @@
                             </nav>
                         </div><!-- /.footer-widget__content -->
                     </div><!-- /.col-lg-2 -->
-                    <div class="col-sm-6 col-md-6 col-lg-2">
+                    <div class="col-sm-2 col-md-2 col-lg-2">
                         <div class="footer-widget-nav">
                             <h6 class="footer-widget__title">Links</h6>
                             <nav>
@@ -53,7 +53,7 @@
                             </nav>
                         </div><!-- /.footer-widget__content -->
                     </div><!-- /.col-lg-2 -->
-                    <div class="col-sm-12 col-md-6 col-lg-4">
+                    <div class="col-sm-12 col-md-12 col-lg-4">
                         <div class="footer-widget-contact">
                             <h6 class="footer-widget__title color-heading">Quick Contacts</h6>
                             <ul class="contact-list list-unstyled">

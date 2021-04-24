@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
     <link rel="stylesheet" href="assets/css/libraries.css">
     <link rel="stylesheet" href="assets/css/style.css">
-</head>
+</head> -->
 
 <body>
     <div class="wrapper">
@@ -51,7 +51,7 @@
                                     </li>
                                     <li>
                                     <a href="#">
-                                        <i class="icon-phone"></i><span>&nbsp;&nbsp;&nbsp;ERT – Emergency Response Team</span></a>
+                                        <i class="icon-phone"></i>&nbsp;&nbsp;&nbsp;ERT<span> – Emergency Response Team</span></a>
                                     </li>
                                 </ul><!-- /.contact__list -->
                                 <div class="d-flex d-flex-hidden-small">
