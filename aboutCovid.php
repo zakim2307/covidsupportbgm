@@ -242,10 +242,12 @@
             </div><!-- /.col-lg-6 -->
         </div><!-- /.row -->
         <div class="row">
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </section><!-- /.Features Layout 2 -->
 
-        </div><!-- /.row -->
-    </div><!-- /.container -->
-</section><!-- /.Features Layout 2 -->
+    
+    <?php include('./commonFiles/faq.php') ?>
 
 
 
