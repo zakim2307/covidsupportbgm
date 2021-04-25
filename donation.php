@@ -26,7 +26,7 @@
     <div class="bg-img"><img src="assets/images/banners/1.jpg" alt="background"></div>
     <div class="container">
         <div class="row">
-            <div class="col-12">
+            <div class="col-lg-5 col-md-7 col-sm-12">
                 <h1 class="pagetitle__heading">Covid Donations and Payment Details</h1>
                 <?php //include('./commonFiles/covid.php') ?>
                 

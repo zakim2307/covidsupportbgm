@@ -3,4 +3,87 @@
 <title>Beds Availability</title>
 <url>bedAvailability.php</url>
 </link>
+<link>
+<title>Oxygen Cylinder Availability</title>
+<url>oxygen.php</url>
+</link>
+<link>
+<title>Angels Ambulance Services</title>
+<url>services.php</url>
+</link>
+<link>
+<title>Plasma Therapy</title>
+<url>plasma.php</url>
+</link>
+<link>
+<title>About Covid Support Belgaum</title>
+<url>about.php</url>
+</link>
+<link>
+<title>About COVID-19 or Corona virus</title>
+<url>aboutCovid.php</url>
+</link>
+<link>
+<title>Burials and Cremations</title>
+<url>burials.php</url>
+</link>
+<link>
+<title>Contact Covid Support Belgaum</title>
+<url>contact.php</url>
+</link>
+<link>
+<title>Emergency Response Team</title>
+<url>contact.php</url>
+</link>
+<link>
+<title>Diagnostic and Rapid Antigen Centers</title>
+<url>diagnostic.php</url>
+</link>
+<link>
+<title>Disclaimer / Privacy Policy / Terms and Conditions</title>
+<url>disclaimer.php</url>
+</link>
+<link>
+<title>24/7 Doctors</title>
+<url>doctor.php</url>
+</link>
+<link>
+<title>Donate to the cause</title>
+<url>donation.php</url>
+</link>
+<link>
+<title>Food , Hotels, Messes</title>
+<url>food.php</url>
+</link>
+<link>
+<title>Media Gallary</title>
+<url>gallary.php</url>
+</link>
+<link>
+<title>Home Services </title>
+<url>homeService.php</url>
+</link>
+<link>
+<title>Covaxine, covaccine, remedesvir, COVID-19 medicines</title>
+<url>medicine.php</url>
+</link>
+<link>
+<title>News , Blogs</title>
+<url>newsPages.php</url>
+</link>
+<link>
+<title>NGOs</title>
+<url>NGO.php</url>
+</link>
+<link>
+<title>Testing centers/ COVID Free testing</title>
+<url>testingCenter.php</url>
+</link>
+<link>
+<title>Support the cause register and volunteer</title>
+<url>volunteerRegister.php</url>
+</link>
+
+
+
 </pages>

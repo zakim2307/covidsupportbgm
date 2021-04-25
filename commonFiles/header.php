@@ -130,12 +130,12 @@
                                 </ul><!-- /.dropdown-menu -->
                             </li><!-- /.nav-item -->
                             
-                            <div class="d-sm-flex d-lg-none d-xl-none">
+                            <div class="d-sm-flex d-lg-flex d-xl-none">
                                 <li class="nav__item">
                                     <a href="services.php" class="nav__item-link">Services</a>
                                 </li>
-                                <li>
-                                    <a href="contact.php" class="btn btn__primary btn__rounded ml-30">
+                                <li class="nav__item">
+                                    <a href="contact.php" class="nav__item-link">
                                         <!-- <i class="icon-calendar"></i> -->
                                         <span>Contact ERT</span>
                                     </a>
@@ -146,8 +146,11 @@
                     </div><!-- /.navbar-collapse -->
                     <div class="d-none d-xl-flex align-items-center position-relative ml-30">
                         <div class="miniPopup-departments-trigger">
-                            <span class="menu-lines" id="miniPopup-departments-trigger-icon"><span></span></span>
-                            <a href="#services">Services</a>
+                            <span class="menu-lines" id="miniPopup-departments-trigger-icon">
+                                <span>
+                                </span>
+                            </span>
+                                    <a href="services.php">Services</a>
                         </div>
                         <ul id="miniPopup-departments" class="miniPopup miniPopup-departments dropdown-menu">
                             <li class="nav__item">

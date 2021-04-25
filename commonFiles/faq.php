@@ -75,7 +75,7 @@
     </div><!-- /.accordion-item -->
     <div class="accordion-item">
     <div class="accordion__header" data-toggle="collapse" data-target="#collapse5">
-        <a class="accordion__title" href="#">who is COnsidered a close contact of someone with COVID-19?</a>
+        <a class="accordion__title" href="#">who is Considered a close contact of someone with COVID-19?</a>
     </div><!-- /.accordion-item-header -->
     <div id="collapse5" class="collapse" data-parent="#accordion">
         <div class="accordion__body">

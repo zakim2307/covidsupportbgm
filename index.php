@@ -27,7 +27,7 @@ function showResult(str) {
     document.getElementById("livesearch").innerHTML="";
     if (this.readyState==4 && this.status==200) {
       document.getElementById("livesearch").innerHTML=this.responseText;
-      document.getElementById("livesearch").style.border="1px solid #A5ACB2";
+      document.getElementById("livesearch").style.border=" 1px solid #21cdc0f2;";
     }
   }
   xmlhttp.open("GET","./commonFiles/livesearch.php?q="+str,true);
@@ -124,21 +124,16 @@ function showResult(str) {
     ========================= -->
     <section class="work-process work-process-carousel pt-130 pb-0 bg-overlay bg-overlay-secondary">
         <div class="bg-img"><img src="assets/images/banners/1.jpg" alt="background"></div>
-        <div class="container pb-80">
+        <div class="container">
             <div class="row">
                 <div class="col-12">  
                       <form class="header-topbar__search">
-                      <div class="row">
-                            <div class="col-12">  
                                 <div>
                                     <form>
                                         <input type="text" onkeyup="showResult(this.value)" class="form-control" placeholder="Search for Oxygen Cylinders, Testing Centers, Bed Availability...">
-                                        <div id="livesearch"></div>
+                                        <div class="livesearch" id="livesearch"></div>
                                     </form>
                                 </div>
-                                <div>
-                                    <!-- <button class="header-topbar__search-btn"><i class="fa fa-search"></i></button> -->
-                                    </div></div></div>
                         </form>
                 </div>
             </div>

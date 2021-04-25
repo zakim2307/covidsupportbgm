@@ -27,14 +27,6 @@
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
                 <h1 class="pagetitle__heading">Lets see Some Facts About COVID-19:</h1>
-                <!-- <p class="pagetitle__desc">We are a group of highly trained doctors from UK (expatriate), NGO’s &
-                    Civil Society members of
-                    Belgaum with a mission to save Human lives & provide emergency services like Doctors assistant
-                    for
-                    minor & mild Covid symptoms (24/7), Oxygen Supply, medicines, diagnostics, Plasma therapy,
-                    Ambulance & Burial to belgaumites.</p> -->
-                    <?php //include('./commonFiles/covid.php') ?>
-
             </div><!-- /.col-xl-5 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
@@ -77,18 +69,24 @@
             <div class="col-sm-12 col-md-12 col-lg-6">
                 <div class="heading__layout2 mb-50">
                     <h2 class="heading__title color-white">What are the symptoms?</h2>
-                    <p class="heading__title color-white">
+                    <h6 class="color-white">
                         COVID-19 symptoms range from mild to severe. It takes 2-14 days after exposure for symptoms to
                         develop. Symptoms may include:
-</p>
+                    </h6>
                     <!-- <ul class="list-items list-items-layout2 list-items-light list-horizontal list-unstyled"> -->
                     <ul class="list-items list-items-light list-horizontal list-unstyled">
-                        <li>Fractures and dislocations</li>
-                        <li>Health Assessments</li>
-                        <li>Desensitisation injections</li>
-                        <li>High Quality Care</li>
-                        <li>Desensitisation injections</li>
+                        <li>Fever</li>
+                        <li>Dry cough</li>
+                        <li>Sore Throat</li>
+                        <li>Diarrhoea</li>
+                        <li>Headache</li>
+                        <li>Difficulty in Breathing</li>
+                        <li>Chest pain or presssure</li>
+                        <li>Loss of speech or movement</li>
                     </ul>
+                    <h6 class="color-white">
+                        The above symptoms from top to bottom range from common symptoms to serious symptoms chronologically.
+                    </h6>
                 </div>
             </div><!-- /col-lg-6 -->
             <div class="col-sm-12 col-md-12 col-lg-6">
@@ -158,8 +156,8 @@
                 <div class=" heading__layout2 mb-50">
                     <h2 class="heading__title color-white">How can I protect myself from Covid-19?</h2>
                     <h4 class="heading__title color-white">
-                        If you are traveling overseas (to China but also to other places)
-                        follow the CDC’s guidance:
+                        If you are traveling overseas (to China but also to other places), or interstate travel
+                        follow the these guidance:
                     </h4>
                 </div>
             </div><!-- /col-lg-6 -->
@@ -219,7 +217,7 @@
                 <div class="member member-diff">
                     <div class="member__info">
                         <h5 class="member__name">
-                            Seek Medical Care</h5>
+                            avoid Medical Care</h5>
                         <p class="member__job">Wash hands often with soap and water. If not available, use hand
                             sanitizer.</p>
 

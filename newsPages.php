@@ -45,7 +45,7 @@
             <div class="col-sm-12 col-md-6 col-lg-4">
                 <div class="post-item">
                     <div class="post__img">
-                        <a href="blog-single-post.html">
+                        <a href="news1.php">
                             <img src="assets/images/blog/grid/1.jpg" alt="post image" loading="lazy">
                         </a>
                     </div><!-- /.post__img -->
@@ -57,7 +57,7 @@
                             <span class="post__meta-date">Jan 30, 2022</span>
                             <a class="post__meta-author" href="#">Martin King</a>
                         </div>
-                        <h4 class="post__title"><a href="#">6 Tips to Protect Your Mental Health When You’re Sick</a>
+                        <h4 class="post__title"><a href="news1.php">6 Tips to Protect Your Mental Health When You’re Sick</a>
                         </h4>
 
                         <p class="post__desc">It’s normal to feel anxiety, worry and grief any time you’re diagnosed
@@ -65,7 +65,7 @@
                             condition that’s certainly true if you test positive for COVID-19, or are presumed to be
                             positive...
                         </p>
-                        <a href="blog-single-post.html" class="btn btn__secondary btn__link btn__rounded">
+                        <a href="news1.php" class="btn btn__secondary btn__link btn__rounded">
                             <span>Read More</span>
                             <i class="icon-arrow-right"></i>
                         </a>
@@ -76,7 +76,7 @@
             <div class="col-sm-12 col-md-6 col-lg-4">
                 <div class="post-item">
                     <div class="post__img">
-                        <a href="blog-single-post.html">
+                        <a href="news1.php">
                             <img src="assets/images/blog/grid/2.jpg" alt="post image" loading="lazy">
                         </a>
                     </div><!-- /.post__img -->
@@ -88,13 +88,13 @@
                             <span class="post__meta-date">Jan 30, 2022</span>
                             <a class="post__meta-author" href="#">John Ezak</a>
                         </div>
-                        <h4 class="post__title"><a href="#">Unsure About Wearing a Face Mask? Here’s How and Why</a>
+                        <h4 class="post__title"><a href="news1.php">Unsure About Wearing a Face Mask? Here’s How and Why</a>
                         </h4>
                         <p class="post__desc">That means that you should still be following any shelter-in-place orders
                             in your
                             community. But when you’re venturing out to the grocery store, pharmacy or hospital..
                         </p>
-                        <a href="blog-single-post.html" class="btn btn__secondary btn__link btn__rounded">
+                        <a href="news1.php" class="btn btn__secondary btn__link btn__rounded">
                             <span>Read More</span>
                             <i class="icon-arrow-right"></i>
                         </a>
@@ -105,7 +105,7 @@
             <div class="col-sm-12 col-md-6 col-lg-4">
                 <div class="post-item">
                     <div class="post__img">
-                        <a href="blog-single-post.html">
+                        <a href="news1.php">
                             <img src="assets/images/blog/grid/3.jpg" alt="post image" loading="lazy">
                         </a>
                     </div><!-- /.post__img -->
@@ -117,7 +117,7 @@
                             <span class="post__meta-date">Jan 28, 2022</span>
                             <a class="post__meta-author" href="#">Saul Wade</a>
                         </div>
-                        <h4 class="post__title"><a href="#">Tips for Eating Healthy When You’re Working From Home </a>
+                        <h4 class="post__title"><a href="news1.php">Tips for Eating Healthy When You’re Working From Home </a>
                         </h4>
 
                         <p class="post__desc">It’s normal to feel anxiety, worry and grief any time you’re diagnosed
@@ -125,7 +125,7 @@
                             condition that’s certainly true if you test positive for COVID-19, or are presumed to be
                             positive...
                         </p>
-                        <a href="blog-single-post.html" class="btn btn__secondary btn__link btn__rounded">
+                        <a href="news1.php" class="btn btn__secondary btn__link btn__rounded">
                             <span>Read More</span>
                             <i class="icon-arrow-right"></i>
                         </a>
@@ -136,7 +136,7 @@
             <div class="col-sm-12 col-md-6 col-lg-4">
                 <div class="post-item">
                     <div class="post__img">
-                        <a href="blog-single-post.html">
+                        <a href="news1.php">
                             <img src="assets/images/blog/grid/4.jpg" alt="post image" loading="lazy">
                         </a>
                     </div><!-- /.post__img -->
@@ -148,12 +148,12 @@
                             <span class="post__meta-date">Jan 30, 2022</span>
                             <a class="post__meta-author" href="#">Mark Ezak</a>
                         </div>
-                        <h4 class="post__title"><a href="#">Why Coronavirus Cases Among Adults Is Bad News</a></h4>
+                        <h4 class="post__title"><a href="news1.php">Why Coronavirus Cases Among Adults Is Bad News</a></h4>
                         <p class="post__desc">A new surge of coronavirus cases has spread across the country and while
                             there’s
                             still so much to learn about virus, how it’s transmitted and its long-term effects
                         </p>
-                        <a href="blog-single-post.html" class="btn btn__secondary btn__link btn__rounded">
+                        <a href="news1.php" class="btn btn__secondary btn__link btn__rounded">
                             <span>Read More</span>
                             <i class="icon-arrow-right"></i>
                         </a>
@@ -164,7 +164,7 @@
             <div class="col-sm-12 col-md-6 col-lg-4">
                 <div class="post-item">
                     <div class="post__img">
-                        <a href="blog-single-post.html">
+                        <a href="news1.php">
                             <img src="assets/images/blog/grid/5.jpg" alt="post image" loading="lazy">
                         </a>
                     </div><!-- /.post__img -->
@@ -176,12 +176,12 @@
                             <span class="post__meta-date">Jan 30, 2022</span>
                             <a class="post__meta-author" href="#">Martin King</a>
                         </div>
-                        <h4 class="post__title"><a href="#">Why Do People Get Kidney Stones in the Summer? </a></h4>
+                        <h4 class="post__title"><a href="news1.php">Why Do People Get Kidney Stones in the Summer? </a></h4>
                         <p class="post__desc">Summer may have just officially started, but kidney stone season began a
                             couple of
                             weeks ago. Doctors see an increase in kidney stone cases when the weather warms up...
                         </p>
-                        <a href="blog-single-post.html" class="btn btn__secondary btn__link btn__rounded">
+                        <a href="news1.php" class="btn btn__secondary btn__link btn__rounded">
                             <span>Read More</span>
                             <i class="icon-arrow-right"></i>
                         </a>
@@ -192,7 +192,7 @@
             <div class="col-sm-12 col-md-6 col-lg-4">
                 <div class="post-item">
                     <div class="post__img">
-                        <a href="blog-single-post.html">
+                        <a href="news1.php">
                             <img src="assets/images/blog/grid/6.jpg" alt="post image" loading="lazy">
                         </a>
                     </div><!-- /.post__img -->
@@ -204,12 +204,12 @@
                             <span class="post__meta-date">Feb 07, 2022</span>
                             <a class="post__meta-author" href="#">Marie Black</a>
                         </div>
-                        <h4 class="post__title"><a href="#">Do Any Drugs Really Work to Treat Coronavirus? </a></h4>
+                        <h4 class="post__title"><a href="news1.php">Do Any Drugs Really Work to Treat Coronavirus? </a></h4>
                         <p class="post__desc">While most people who get COVID-19 are able to recover at home, the rush
                             is on to
                             find a treatment that’s safe and effective against life-threatening cases of the disease...
                         </p>
-                        <a href="blog-single-post.html" class="btn btn__secondary btn__link btn__rounded">
+                        <a href="news1.php" class="btn btn__secondary btn__link btn__rounded">
                             <span>Read More</span>
                             <i class="icon-arrow-right"></i>
                         </a>

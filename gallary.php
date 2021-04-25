@@ -14,6 +14,7 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.3/css/all.css">
     <link rel="stylesheet" href="assets/css/libraries.css">
     <link rel="stylesheet" href="assets/css/style.css">
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script> -->
 </head>
 
 
@@ -28,23 +29,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
-                <h1 class="pagetitle__heading">About Us<br />Covid Support Belgaum Group:</h1>
-                <!-- <p class="pagetitle__desc">We are a group of highly trained doctors from UK (expatriate), NGO’s &
-                    Civil Society members of
-                    Belgaum with a mission to save Human lives & provide emergency services like Doctors assistant
-                    for
-                    minor & mild Covid symptoms (24/7), Oxygen Supply, medicines, diagnostics, Plasma therapy,
-                    Ambulance & Burial to belgaumites.</p> -->
-                <!-- <div class="d-flex flex-wrap align-items-center">
-                    <a href="doctor.php" class="btn btn__primary btn__rounded mr-30">
-                        <span>Find A Doctor</span>
-                        <i class="icon-arrow-right"></i>
-                    </a>
-                    <a href="services.php" class="btn btn__white btn__rounded">
-                        <span>Our Services</span>
-                        <i class="icon-arrow-right"></i>
-                    </a>
-                </div> -->
+                <h1 class="pagetitle__heading">Media Gallery<br />And Video Gallery<br />Covid Support Belgaum:</h1>
                 <?php //include('./commonFiles/covid.php') ?>
 
             </div><!-- /.col-xl-5 -->

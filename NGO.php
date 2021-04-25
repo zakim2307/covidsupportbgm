@@ -26,8 +26,8 @@
     <div class="bg-img"><img src="assets/images/sliders/mainBanner.png" alt="background"></div>
     <div class="container">
         <div class="row">
-            <div class="col-12">
-                <h1 class="pagetitle__heading">Registered NGOs working with Covid Support Belgaum</h1>
+            <div class="col-lg-6 col-md-12 col-sm-12">
+                <h1 class="pagetitle__heading">Registered NGOs working <br />with Covid Support Belgaum</h1>
                 <?php //include('./commonFiles/covid.php') ?>
                 <!-- <nav>
                     <ol class="breadcrumb mb-0">
