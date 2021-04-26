@@ -28,12 +28,6 @@
         <div class="row">
             <div class="col-lg-6 col-md-12 col-sm-12">
                 <h1 class="pagetitle__heading">Registered NGOs working <br />with Covid Support Belgaum</h1>
-                <?php //include('./commonFiles/covid.php') ?>
-                <!-- <nav>
-                    <ol class="breadcrumb mb-0">
-                        <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                    </ol>
-                </nav> -->
             </div><!-- /.col-12 -->
         </div><!-- /.row -->
     </div><!-- /.container -->

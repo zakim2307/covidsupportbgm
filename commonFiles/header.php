@@ -44,7 +44,7 @@
                                             <p>Please feel free to contact our friendly reception staff with any general
                                                 or medical enquiry.
                                             </p>
-                                            <a href="contact.php" class="btn btn__secondary btn__link btn__block">
+                                            <a href="contact" class="btn btn__secondary btn__link btn__block">
                                                 <span>Contact Us</span> <i class="icon-arrow-right"></i>
                                             </a>
                                         </div><!-- /.miniPopup-emergency -->
@@ -86,7 +86,7 @@
             </div><!-- /.header-top -->
             <nav class="navbar navbar-expand-lg sticky-navbar">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="index.php">
+                    <a class="navbar-brand" href="index">
                         <img src="assets/images/logo/logo-light1.png" class="logo-light" alt="logo">
                         <img src="assets/images/logo/logo-dark.png" class="logo-dark" alt="logo">
                     </a>
@@ -96,46 +96,46 @@
                     <div class="collapse navbar-collapse" id="mainNavigation">
                         <ul class="navbar-nav ml-auto">
                             <li class="nav__item">
-                                <a href="index.php" class="nav__item-link">Home</a>
+                                <a href="index" class="nav__item-link">Home</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="about.php" class="nav__item-link">About Us</a>
+                                <a href="about" class="nav__item-link">About Us</a>
                             </li><!-- /.nav-item -->
 
                             <!-- <li class="nav__item">
-                                <a href="doctor.php" class="nav__item-link">Doctors</a> -->
+                                <a href="doctor" class="nav__item-link">Doctors</a> -->
                             <!-- </li>/.nav-item -->
                             <li class="nav__item">
-                                <a href="NGO.php" class="nav__item-link">NGO's</a>
+                                <a href="NGO" class="nav__item-link">NGO's</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="donation.php" class="nav__item-link">Donations</a>
+                                <a href="donation" class="nav__item-link">Donations</a>
                             </li><!-- /.nav-item -->
                             
                             <li class="nav__item has-dropdown">
                                 <a href="#" data-toggle="dropdown" class="dropdown-toggle nav__item-link">Media</a>
                                 <ul class="dropdown-menu">
                                     <li class="nav__item">
-                                        <a href="aboutCovid.php" class="nav__item-link">About Covid</a>
+                                        <a href="aboutCovid" class="nav__item-link">About Covid</a>
                                     </li><!-- /.nav-item -->
                                     <li class="nav__item">
-                                        <a href="gallary.php" class="nav__item-link">Media Gallery</a>
+                                        <a href="gallary" class="nav__item-link">Media Gallery</a>
                                     </li><!-- /.nav-item -->
                                     <li class="nav__item">
-                                <a href="newsPages.php" class="nav__item-link">News</a>
+                                <a href="newsPages" class="nav__item-link">News</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="disclaimer.php" class="nav__item-link">Disclaimer</a>
+                                <a href="disclaimer" class="nav__item-link">Disclaimer</a>
                             </li><!-- /.nav-item -->
                                 </ul><!-- /.dropdown-menu -->
                             </li><!-- /.nav-item -->
                             
                             <div class="d-sm-flex d-lg-flex d-xl-none">
                                 <li class="nav__item">
-                                    <a href="services.php" class="nav__item-link">Services</a>
+                                    <a href="services" class="nav__item-link">Services</a>
                                 </li>
                                 <li class="nav__item">
-                                    <a href="contact.php" class="nav__item-link">
+                                    <a href="contact" class="nav__item-link">
                                         <!-- <i class="icon-calendar"></i> -->
                                         <span>Contact ERT</span>
                                     </a>
@@ -150,44 +150,44 @@
                                 <span>
                                 </span>
                             </span>
-                                    <a href="services.php">Services</a>
+                                    <a href="services">Services</a>
                         </div>
                         <ul id="miniPopup-departments" class="miniPopup miniPopup-departments dropdown-menu">
                             <li class="nav__item">
-                                <a href="bedAvailability.php" class="nav__item-link">Bed Availability</a>
+                                <a href="bedAvailability" class="nav__item-link">Bed Availability</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="medicine.php" class="nav__item-link">Medicine Remedesvir</a>
+                                <a href="medicine" class="nav__item-link">Medicine Remedesvir</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="oxygen.php" class="nav__item-link">Oxygen Cylinders</a>
+                                <a href="oxygen" class="nav__item-link">Oxygen Cylinders</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="ambulance.php" class="nav__item-link">Ambulance Services</a>
+                                <a href="ambulance" class="nav__item-link">Ambulance Services</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="burials.php" class="nav__item-link">Burials and Cremations</a>
+                                <a href="burials" class="nav__item-link">Burials and Cremations</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="plasma.php" class="nav__item-link">Plasma Therapy</a>
+                                <a href="plasma" class="nav__item-link">Plasma Therapy</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="doctor.php" class="nav__item-link">Doctors Assistance</a>
+                                <a href="doctor" class="nav__item-link">Doctors Assistance</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="testingCenter.php" class="nav__item-link">Covid-19 Free Testing Center</a>
+                                <a href="testingCenter" class="nav__item-link">Covid-19 Free Testing Center</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="diagnostic.php" class="nav__item-link">Diagnostics</a>
+                                <a href="diagnostic" class="nav__item-link">Diagnostics</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="vaccineAwareness.php" class="nav__item-link">Vaccine Awareness</a>
+                                <a href="vaccineAwareness" class="nav__item-link">Vaccine Awareness</a>
                             </li><!-- /.nav-item -->
                             <li class="nav__item">
-                                <a href="homeService.php" class="nav__item-link">Home Service</a>
+                                <a href="homeService" class="nav__item-link">Home Service</a>
                             </li><!-- /.nav-item -->
                         </ul> <!-- /.miniPopup-departments -->
-                        <a href="contact.php" class="btn btn__primary btn__rounded ml-30">
+                        <a href="contact" class="btn btn__primary btn__rounded ml-30">
                             <!-- <i class="icon-calendar"></i> -->
                             <span>Contact ERT</span>
                         </a>

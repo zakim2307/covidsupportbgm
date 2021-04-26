@@ -10,7 +10,6 @@
                                         <h2 class="feature__title">Confirmed</h2>
                                     </li><!-- /.feature-item-->
                                     <!-- feature item #2 -->
-
                                     <li class="feature-item">
                                         <div class="feature__icon">
                                             <a href="#">

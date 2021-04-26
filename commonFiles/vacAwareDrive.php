@@ -111,7 +111,7 @@
                 
             </div><!-- /.col-xl-5 -->
             <div class="btn-center-justify mt-10">
-                    <a href="vaccineAwareness.php" class="btn btn__primary btn__rounded ml-30" style="align-items: center;">
+                    <a href="vaccineAwareness" class="btn btn__primary btn__rounded ml-30" style="align-items: center;">
 
                         <span>View All</span>
                     </a>

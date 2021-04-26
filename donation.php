@@ -135,7 +135,7 @@
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-7">
                     <div class="contact-panel mb-50">
-                        <form class="contact-panel__form" method="post" action="assets/php/contact.php"
+                        <form class="contact-panel__form" method="post" action="assets/php/contact"
                             id="contactForm">
                             <div class="row">
                                 <div class="col-sm-12">
@@ -201,10 +201,10 @@
                         </p>
                     </div>
                     <div class="d-flex align-items-center">
-                        <a href="donation.php" class="btn btn__white btn__rounded mr-30">
+                        <a href="donation" class="btn btn__white btn__rounded mr-30">
                             <i class="fas fa-heart"></i> <span>Help the Needy</span>
                         </a>
-                        <a class="video__btn video__btn-white popup-video" href="aboutCovid.php">
+                        <a class="video__btn video__btn-white popup-video" href="aboutCovid">
                             <div class="video__player">
                                 <i class="fa fa-play"></i>
                             </div>

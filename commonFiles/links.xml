@@ -1,87 +1,87 @@
 <pages>
 <link>
 <title>Beds Availability</title>
-<url>bedAvailability.php</url>
+<url>bedAvailability</url>
 </link>
 <link>
 <title>Oxygen Cylinder Availability</title>
-<url>oxygen.php</url>
+<url>oxygen</url>
 </link>
 <link>
 <title>Angels Ambulance Services</title>
-<url>services.php</url>
+<url>services</url>
 </link>
 <link>
 <title>Plasma Therapy</title>
-<url>plasma.php</url>
+<url>plasma</url>
 </link>
 <link>
 <title>About Covid Support Belgaum</title>
-<url>about.php</url>
+<url>about</url>
 </link>
 <link>
 <title>About COVID-19 or Corona virus</title>
-<url>aboutCovid.php</url>
+<url>aboutCovid</url>
 </link>
 <link>
 <title>Burials and Cremations</title>
-<url>burials.php</url>
+<url>burials</url>
 </link>
 <link>
 <title>Contact Covid Support Belgaum</title>
-<url>contact.php</url>
+<url>contact</url>
 </link>
 <link>
 <title>Emergency Response Team</title>
-<url>contact.php</url>
+<url>contact</url>
 </link>
 <link>
 <title>Diagnostic and Rapid Antigen Centers</title>
-<url>diagnostic.php</url>
+<url>diagnostic</url>
 </link>
 <link>
 <title>Disclaimer / Privacy Policy / Terms and Conditions</title>
-<url>disclaimer.php</url>
+<url>disclaimer</url>
 </link>
 <link>
 <title>24/7 Doctors</title>
-<url>doctor.php</url>
+<url>doctor</url>
 </link>
 <link>
 <title>Donate to the cause</title>
-<url>donation.php</url>
+<url>donation</url>
 </link>
 <link>
 <title>Food , Hotels, Messes</title>
-<url>food.php</url>
+<url>food</url>
 </link>
 <link>
 <title>Media Gallary</title>
-<url>gallary.php</url>
+<url>gallary</url>
 </link>
 <link>
 <title>Home Services </title>
-<url>homeService.php</url>
+<url>homeService</url>
 </link>
 <link>
 <title>Covaxine, covaccine, remedesvir, COVID-19 medicines</title>
-<url>medicine.php</url>
+<url>medicine</url>
 </link>
 <link>
 <title>News , Blogs</title>
-<url>newsPages.php</url>
+<url>newsPages</url>
 </link>
 <link>
 <title>NGOs</title>
-<url>NGO.php</url>
+<url>NGO</url>
 </link>
 <link>
 <title>Testing centers/ COVID Free testing</title>
-<url>testingCenter.php</url>
+<url>testingCenter</url>
 </link>
 <link>
 <title>Support the cause register and volunteer</title>
-<url>volunteerRegister.php</url>
+<url>volunteerRegister</url>
 </link>
 
 

@@ -17,9 +17,9 @@
                 <i class="icon-location"></i><a href="#">Location: Belgaum/Karnataka</a>
             </li>
             <li>
-                <i class="icon-clock"></i><a href="contact.php">Mon - Fri: 8:00 am - 7:00 pm</a>
+                <i class="icon-clock"></i><a href="contact">Mon - Fri: 8:00 am - 7:00 pm</a>
             </li>
         </ul>
-        <a href="contact.php" class="btn btn__white btn__rounded btn__outlined">Contact Us</a>
+        <a href="contact" class="btn btn__white btn__rounded btn__outlined">Contact Us</a>
     </div>
 </div>

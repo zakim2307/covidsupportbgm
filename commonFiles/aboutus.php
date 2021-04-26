@@ -28,7 +28,7 @@ mortality this lead them to form a group with local NGO’s & Civil society memb
 on themselves to facilitate Covid related services and ease the impact of Pandemic in their Hometown
 (Belgaum).
                             </p>
-                            <a href="doctor.php" class="btn btn__secondary btn__rounded mb-70">
+                            <a href="doctor" class="btn btn__secondary btn__rounded mb-70">
                                 <span>Meet our Doctors</span> <i class="icon-arrow-right"></i>
                             </a>
                         </div>

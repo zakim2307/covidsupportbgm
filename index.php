@@ -178,7 +178,7 @@ function showResult(str) {
                         </p>
                     </div><!-- /.col-lg-7 -->
                     <div class="col-sm-12 col-md-3 col-lg-3">
-                        <a href="aboutCovid.php" class="btn btn__primary btn__secondary-style2 btn__rounded">
+                        <a href="aboutCovid" class="btn btn__primary btn__secondary-style2 btn__rounded">
                             <span>Know More About COVID-19</span>
                             <i class="icon-arrow-right"></i>
                         </a>
@@ -216,7 +216,7 @@ function showResult(str) {
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-7">
                     <div class="contact-panel mb-50">
-                        <form class="contact-panel__form" method="post" action="assets/php/contact.php"
+                        <form class="contact-panel__form" method="post" action="assets/php/contact"
                             id="contactForm">
                             <div class="row">
                                 <div class="col-sm-12">
@@ -282,10 +282,10 @@ function showResult(str) {
                         </p>
                     </div>
                     <div class="d-flex align-items-center">
-                        <a href="donation.php" class="btn btn__white btn__rounded mr-30">
+                        <a href="donation" class="btn btn__white btn__rounded mr-30">
                             <i class="fas fa-heart"></i> <span>Help the Needy</span>
                         </a>
-                        <a class="video__btn video__btn-white popup-video" href="aboutCovid.php">
+                        <a class="video__btn video__btn-white popup-video" href="aboutCovid">
                             <div class="video__player">
                                 <i class="fa fa-play"></i>
                             </div>
@@ -327,7 +327,7 @@ function showResult(str) {
                 <div class="col-sm-12 col-md-6 col-lg-4">
                     <div class="post-item">
                         <div class="post__img">
-                            <a href="news1.php">
+                            <a href="news1">
                                 <img src="assets/images/blog/grid/1.jpg" alt="post image" loading="lazy">
                             </a>
                         </div><!-- /.post__img -->
@@ -337,9 +337,9 @@ function showResult(str) {
                             </div><!-- /.blog-meta-cat -->
                             <div class="post__meta d-flex">
                                 <span class="post__meta-date">Jan 30, 2022</span>
-                                <a class="post__meta-author" href="news1.php">Martin King</a>
+                                <a class="post__meta-author" href="news1">Martin King</a>
                             </div>
-                            <h4 class="post__title"><a href="news1.php">6 Tips to Protect Your Mental Health When You’re
+                            <h4 class="post__title"><a href="news1">6 Tips to Protect Your Mental Health When You’re
                                     Sick</a></h4>
 
                             <p class="post__desc">It’s normal to feel anxiety, worry and grief any time you’re
@@ -349,7 +349,7 @@ function showResult(str) {
                                 presumed to be
                                 positive...
                             </p>
-                            <a href="news1.php" class="btn btn__secondary btn__link btn__rounded">
+                            <a href="news1" class="btn btn__secondary btn__link btn__rounded">
                                 <span>Read More</span>
                                 <i class="icon-arrow-right"></i>
                             </a>
@@ -360,7 +360,7 @@ function showResult(str) {
                 <div class="col-sm-12 col-md-6 col-lg-4">
                     <div class="post-item">
                         <div class="post__img">
-                            <a href="news1.php">
+                            <a href="news1">
                                 <img src="assets/images/blog/grid/2.jpg" alt="post image" loading="lazy">
                             </a>
                         </div><!-- /.post__img -->
@@ -372,7 +372,7 @@ function showResult(str) {
                                 <span class="post__meta-date">Jan 30, 2022</span>
                                 <a class="post__meta-author" href="#">John Ezak</a>
                             </div>
-                            <h4 class="post__title"><a href="news1.php">Unsure About Wearing a Face Mask? Here’s How and
+                            <h4 class="post__title"><a href="news1">Unsure About Wearing a Face Mask? Here’s How and
                                     Why</a>
                             </h4>
                             <p class="post__desc">That means that you should still be following any
@@ -381,7 +381,7 @@ function showResult(str) {
                                 community. But when you’re venturing out to the grocery store, pharmacy or
                                 hospital..
                             </p>
-                            <a href="news1.php" class="btn btn__secondary btn__link btn__rounded">
+                            <a href="news1" class="btn btn__secondary btn__link btn__rounded">
                                 <span>Read More</span>
                                 <i class="icon-arrow-right"></i>
                             </a>
@@ -392,7 +392,7 @@ function showResult(str) {
                 <div class="col-sm-12 col-md-6 col-lg-4">
                     <div class="post-item">
                         <div class="post__img">
-                            <a href="news1.php">
+                            <a href="news1">
                                 <img src="assets/images/blog/grid/3.jpg" alt="post image" loading="lazy">
                             </a>
                         </div><!-- /.post__img -->
@@ -404,7 +404,7 @@ function showResult(str) {
                                 <span class="post__meta-date">Jan 28, 2022</span>
                                 <a class="post__meta-author" href="#">Saul Wade</a>
                             </div>
-                            <h4 class="post__title"><a href="news1.php">Tips for Eating Healthy When You’re Working From
+                            <h4 class="post__title"><a href="news1">Tips for Eating Healthy When You’re Working From
                                     Home
                                 </a></h4>
 
@@ -415,7 +415,7 @@ function showResult(str) {
                                 presumed to be
                                 positive...
                             </p>
-                            <a href="news1.php" class="btn btn__secondary btn__link btn__rounded">
+                            <a href="news1" class="btn btn__secondary btn__link btn__rounded">
                                 <span>Read More</span>
                                 <i class="icon-arrow-right"></i>
                             </a>

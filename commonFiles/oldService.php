@@ -22,7 +22,7 @@
                     </div>
                 </div><!-- /.col-lg-5 -->
                 <div class="col-sm-9 col-md-9 col-lg-6">
-                    <a href="doctor.php" class="btn btn__link">
+                    <a href="doctor" class="btn btn__link">
                         <i class="icon-arrow-right icon-filled"></i>
                         <span>Meet our Team</span>
                     </a>
@@ -42,7 +42,7 @@
                             </div>
                             <h4 class="feature__title">Bed<br /> Availability</h4>
                         </div><!-- /.feature__content -->
-                        <a href="bedAvailability.php" class="btn__link">
+                        <a href="bedAvailability" class="btn__link">
                             <i class="icon-arrow-right icon-outlined"></i>
                         </a>
                     </div><!-- /.feature-item -->
@@ -59,7 +59,7 @@
                             </div>
                             <h4 class="feature__title">Trusted Medical Doctors </h4>
                         </div><!-- /.feature__content -->
-                        <a href="doctor.php" class="btn__link">
+                        <a href="doctor" class="btn__link">
                             <i class="icon-arrow-right icon-outlined"></i>
                         </a>
                     </div><!-- /.feature-item -->
@@ -78,7 +78,7 @@
                                 <br />
                             </h4>
                         </div><!-- /.feature__content -->
-                        <a href="ambulance.php" class="btn__link">
+                        <a href="ambulance" class="btn__link">
                             <i class="icon-arrow-right icon-outlined"></i>
                         </a>
                     </div><!-- /.feature-item -->
@@ -95,7 +95,7 @@
                             </div>
                             <h4 class="feature__title">Medicines – Remedesvir</h4>
                         </div><!-- /.feature__content -->
-                        <a href="medicine.php" class="btn__link">
+                        <a href="medicine" class="btn__link">
                             <i class="icon-arrow-right icon-outlined"></i>
                         </a>
                     </div><!-- /.feature-item -->
@@ -112,7 +112,7 @@
                             </div>
                             <h4 class="feature__title">Oxygen Supply Services</h4>
                         </div><!-- /.feature__content -->
-                        <a href="oxygen.php" class="btn__link">
+                        <a href="oxygen" class="btn__link">
                             <i class="icon-arrow-right icon-outlined"></i>
                         </a>
                     </div><!-- /.feature-item -->
@@ -130,7 +130,7 @@
                             </div>
                             <h4 class="feature__title">Burial Cremation Services</h4>
                         </div><!-- /.feature__content -->
-                        <a href="burials.php" class="btn__link">
+                        <a href="burials" class="btn__link">
                             <i class="icon-arrow-right icon-outlined"></i>
                         </a>
                     </div><!-- /.feature-item -->
@@ -148,7 +148,7 @@
                             </div>
                             <h4 class="feature__title">Plasma <br />Therapy</h4>
                         </div><!-- /.feature__content -->
-                        <a href="plasma.php" class="btn__link">
+                        <a href="plasma" class="btn__link">
                             <i class="icon-arrow-right icon-outlined"></i>
                         </a>
                     </div><!-- /.feature-item -->
@@ -165,7 +165,7 @@
                             </div>
                             <h4 class="feature__title">Covid-19 Free<br />Testing Centers</h4>
                         </div><!-- /.feature__content -->
-                        <a href="testingCenter.php" class="btn__link">
+                        <a href="testingCenter" class="btn__link">
                             <i class="icon-arrow-right icon-outlined"></i>
                         </a>
                     </div><!-- /.feature-item -->
@@ -183,7 +183,7 @@
                             </div>
                             <h4 class="feature__title">Covid-19<br />Diagnostics</h4>
                         </div><!-- /.feature__content -->
-                        <a href="diagnostic.php" class="btn__link">
+                        <a href="diagnostic" class="btn__link">
                             <i class="icon-arrow-right icon-outlined"></i>
                         </a>
                     </div><!-- /.feature-item -->
@@ -201,7 +201,7 @@
                             </div>
                             <h4 class="feature__title">Vaccine Awareness<br />For Everyone</h4>
                         </div><!-- /.feature__content -->
-                        <a href="vaccineAwareness.php" class="btn__link">
+                        <a href="vaccineAwareness" class="btn__link">
                             <i class="icon-arrow-right icon-outlined"></i>
                         </a>
                     </div><!-- /.feature-item -->
@@ -219,7 +219,7 @@
                             </div>
                             <h4 class="feature__title">Home Services<br />Doctor at Doorstep</h4>
                         </div><!-- /.feature__content -->
-                        <a href="homeService.php" class="btn__link">
+                        <a href="homeService" class="btn__link">
                             <i class="icon-arrow-right icon-outlined"></i>
                         </a>
                     </div><!-- /.feature-item -->
@@ -237,7 +237,7 @@
                             </div>
                             <h4 class="feature__title">Know More<br />About Corona</h4>
                         </div><!-- /.feature__content -->
-                        <a href="FAQ.php" class="btn__link">
+                        <a href="FAQ" class="btn__link">
                             <i class="icon-arrow-right icon-outlined"></i>
                         </a>
                     </div><!-- /.feature-item -->
@@ -248,7 +248,7 @@
                     <p class="font-weight-bold mb-0">We hope you will allow us to care for you and strive to
                         be the
                         first and best choice for COVIDcare.
-                        <a href="contact.php" class="color-secondary">
+                        <a href="contact" class="color-secondary">
                             <span>Contact Us For More Information</span> <i class="icon-arrow-right"></i>
                         </a>
                     </p>

@@ -13,7 +13,7 @@
                                 first and best
                                 choice for your family healthcare.
                             </p>
-                            <a href="contact.php" class="btn btn__primary btn__primary-style2 btn__link">
+                            <a href="contact" class="btn btn__primary btn__primary-style2 btn__link">
                                 <span>Contact Us</span> <i class="icon-arrow-right"></i>
                             </a>
                         </div><!-- /.footer-widget__content -->
@@ -23,17 +23,17 @@
                             <h6 class="footer-widget__title">Services</h6>
                             <nav>
                                 <ul class="list-unstyled">
-                                    <li><a href="bedAvailability.php">Bed Availability</a></li>
-                                    <li><a href="oxygen.php">Oxygen Cylinder Availability</a></li>
-                                    <li><a href="ambulance.php">Angel: Ambulance Services</a></li>
-                                    <li><a href="burials.php">Burials and Ceramation</a></li>
-                                    <li><a href="plasma.php">Plasma Therapy</a></li>
-                                    <li><a href="doctor.php">Doctors Assistance</a></li>
-                                    <li><a href="testingCenter.php">COVID-19 Free Testing</a></li>
-                                    <li><a href="diagnostic.php">Diagnostics</a></li>
-                                    <li><a href="homeService.php">Home Services</a></li>
-                                    <li><a href="vaccineAwareness.php">Vaccine Awareness</a></li>
-                                    <li><a href="medicine.php">Remedesvir</a></li>
+                                    <li><a href="bedAvailability">Bed Availability</a></li>
+                                    <li><a href="oxygen">Oxygen Cylinder Availability</a></li>
+                                    <li><a href="ambulance">Angel: Ambulance Services</a></li>
+                                    <li><a href="burials">Burials and Ceramation</a></li>
+                                    <li><a href="plasma">Plasma Therapy</a></li>
+                                    <li><a href="doctor">Doctors Assistance</a></li>
+                                    <li><a href="testingCenter">COVID-19 Free Testing</a></li>
+                                    <li><a href="diagnostic">Diagnostics</a></li>
+                                    <li><a href="homeService">Home Services</a></li>
+                                    <li><a href="vaccineAwareness">Vaccine Awareness</a></li>
+                                    <li><a href="medicine">Remedesvir</a></li>
                                 </ul>
                             </nav>
                         </div><!-- /.footer-widget__content -->
@@ -43,12 +43,12 @@
                             <h6 class="footer-widget__title">Links</h6>
                             <nav>
                                 <ul class="list-unstyled">
-                                    <li><a href="about.php">About Us</a></li>
-                                    <li><a href="doctor.php">Our Doctors</a></li>
-                                    <li><a href="donation.php">Donations</a></li>
-                                    <li><a href="NGO.php">NGOs</a></li>
-                                    <li><a href="newsPages.php">News</a></li>
-                                    <li><a href="contact.php">Appointments</a></li>
+                                    <li><a href="about">About Us</a></li>
+                                    <li><a href="doctor">Our Doctors</a></li>
+                                    <li><a href="donation">Donations</a></li>
+                                    <li><a href="NGO">NGOs</a></li>
+                                    <li><a href="newsPages">News</a></li>
+                                    <li><a href="contact">Appointments</a></li>
                                 </ul>
                             </nav>
                         </div><!-- /.footer-widget__content -->
@@ -66,7 +66,7 @@
                                 <li class="color-body">Belgaum City.</li>
                             </ul>
                             <div class="d-flex align-items-center">
-                                <a href="contact.php" class="btn btn__primary btn__link mr-30">
+                                <a href="contact" class="btn btn__primary btn__link mr-30">
                                     <i class="icon-arrow-right"></i> <span>Get Directions</span>
                                 </a>
                                 <ul class="social-icons list-unstyled mb-0">

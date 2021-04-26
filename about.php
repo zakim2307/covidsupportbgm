@@ -28,16 +28,6 @@
             <div class="row">
                 <div class="col-sm-12 col-md-12 col-lg-12 col-xl-7">
                     <h1 class="pagetitle__heading">About Covid Support Belgaum</h1>
-                    <!-- <div class="d-flex flex-wrap align-items-center">
-                        <a href="doctor.php" class="btn btn__primary btn__rounded mr-30">
-                            <span>Meet Our Doctors</span>
-                            <i class="icon-arrow-right"></i>
-                        </a>
-                        <a href="services.php" class="btn btn__white btn__rounded">
-                            <span>Our Services</span>
-                            <i class="icon-arrow-right"></i>
-                        </a>
-                    </div> -->
                 </div><!-- /.col-xl-5 -->
             </div><!-- /.row -->
         </div><!-- /.container -->
